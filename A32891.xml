@@ -1,0 +1,913 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian conventicle, or, the private-meetings of God's people in evil times, vindicated and warranted by the Word of God Being some-time since delivered in several sermons, and now published for publick benefit.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32891</idno>
+            <idno type="STC">Wing C3944</idno>
+            <idno type="STC">ESTC R224053</idno>
+            <idno type="EEBO-CITATION">99834653</idno>
+            <idno type="PROQUEST">99834653</idno>
+            <idno type="VID">39157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1809:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian conventicle, or, the private-meetings of God's people in evil times, vindicated and warranted by the Word of God Being some-time since delivered in several sermons, and now published for publick benefit.</title>
+               </titleStmt>
+               <extent>56 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, 1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Assembly, Right of --  Great Britain --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39157:1" rendition="simple:additions"/>
+            <p>THE <hi>Chriſtian Conventicle,</hi> OR, The Private-Meetings of <hi>God's People</hi> in evil times, vindicated and warranted by the Word of God. Being ſome-time ſince deli<g ref="char:EOLhyphen"/>vered in ſeveral Sermons, And now publiſhed for publick benefit.</p>
+            <q>Not forſaking the Aſſembling of our ſelves together, as the manner of ſome is, but exhorting one another, &amp;c.
+<bibl>
+                  <hi>Heb. 10.25.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:39157:2"/>
+            <pb n="3" facs="tcp:39157:2"/>
+            <head>THE <hi>Christian Conventicle, &amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Malach. 3.16, 17.</hi>
+                  </bibl>
+                  <p>Then they that feared the Lord ſpake often one to a<g ref="char:EOLhyphen"/>nother, and the Lord hearkened, and heard it, and a Book of remembrance was written before him for them that feared the Lord, and that thought upon his Name: And they ſhall be mine, ſaith the Lord of hoſts, in that day when I make up my Jewels, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>THis Prophecy of <hi>Malachi</hi> may fitly be ſtiled, <hi>A holy Dialogue;</hi> wherein many are brought in to ſpeak their minds.</p>
+            <list>
+               <item>Firſt, you have here the <hi>Prophet;</hi>
+               </item>
+               <item>Secondly, the <hi>Meſſias;</hi>
+               </item>
+               <item>Thirdly, <hi>Wicked</hi> and <hi>Prophane men;</hi>
+               </item>
+               <item>Fourthly, the <hi>pious</hi> and <hi>holy perſons;</hi>
+               </item>
+               <item>And, laſtly, <hi>God</hi> himſelf.</item>
+            </list>
+            <list>
+               <item>The <hi>Prophet,</hi> he ſpeaks <hi>thunderingly:</hi>
+               </item>
+               <item>
+                  <hi>Chriſt,</hi> he ſpeaks <hi>threatningly;</hi>
+               </item>
+               <item>The <hi>Prophane,</hi> they ſpeak <hi>blasphemingly:</hi>
+               </item>
+               <item>
+                  <hi>God's People,</hi> they ſpeak <hi>frequently:</hi> And</item>
+               <item>
+                  <hi>God himſelf,</hi> he ſpeaks moſt <hi>comfortably.</hi>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:39157:3"/>
+            <p n="1">1. For the firſt: The <hi>Prophet,</hi> he ſpeaks <hi>thun<g ref="char:EOLhyphen"/>deringly;</hi> he lets fly thunderbolts of wrath both againſt the Prieſts, and againſt the People of that Age: Their ſins were very <hi>many,</hi> and very <hi>great</hi> both, as their <hi>Sacriledge,</hi> their <hi>mixtures</hi> in the Worſhip of God, their <hi>marrying</hi> to the daughters of a ſtrange god; and many ſuch things, as may be read in the firſt and ſecond chapters. But <hi>that</hi> that did aggravate their ſin, was, that this was done preſently after their deliverance out of a ſeventy years captivity. And this is that which is very much diſpleaſing unto God, that he ſhould loſe all his <hi>labour</hi> and <hi>love</hi> in afflicting of a peo<g ref="char:EOLhyphen"/>ple, and that after reſtoring of them to their for<g ref="char:EOLhyphen"/>mer priviledges, they ſhould make ſuch evil returns unto the Lord God.</p>
+            <p n="2">2. The <hi>Meſſias,</hi> he ſpeaks, and <hi>he</hi> ſpeaks very <hi>threateningly.</hi> The <hi>Jews</hi> they had a flattering conceit, that when Chriſt came, there ſhould be nothing but honey, and oyl, and fatneſs, <hi>i. e.</hi> all manner of pleaſure; they had a fooliſh falſe con<g ref="char:EOLhyphen"/>ceit, that Chriſt ſhould come as another <hi>Alexan<g ref="char:EOLhyphen"/>der,</hi> in great glory and pomp, conquering all be<g ref="char:EOLhyphen"/>fore him: But our <hi>Meſſias</hi> tells them here, that he would come in another way, they ſhould find him to come in a way of <hi>purity</hi> and <hi>holineſs;</hi> it's to <hi>purifie the ſons of Levi:</hi> he would be as <hi>the Re<g ref="char:EOLhyphen"/>finers fire, and the Fullers ſope;</hi> He ſends his Her<g ref="char:EOLhyphen"/>rald of Arms before him, to proclaim War.</p>
+            <p n="3">3. <hi>Prophane men,</hi> they ſpeak; and <hi>they</hi> ſpeak
+<pb n="5" facs="tcp:39157:3"/>
+               <hi>blasphemouſly,</hi> as you may ſee in chap. 2. laſt verſ. and in chap. 3.13. Theſe <hi>Vipers</hi> they ſpit their <hi>venom</hi> in the very face of Almighty God; <hi>Wherein have we wearied him? when ye ſay, Every one that doth evil, is good in the ſight of the Lord, and he delighteth in them, or, where is the God of Judge<g ref="char:EOLhyphen"/>ment?</hi> (Oh, my Brethren, that ever the juſt and righteous God ſhould be ſo much ſcandal'd and blaſphemed, <hi>that he ſhould delight in ſinners!</hi>) And then he goes on, — And, <hi>your words have been ſtout against me, — Ye have ſaid, It is in vain to ſerve God, and what profit is it that we have kept his Ordinance, and walked mournfully before the Lord of hoſts? We count the proud happy; yea, they that work wickedneſs are ſet up, and they that tempt God are delivered.</hi> And then,</p>
+            <p n="4">4. You have the <hi>People of God,</hi> they ſpeak; and <hi>they</hi> ſpeak <hi>frequently; Then they that feared the Lord, ſpake often one to another.</hi> What it was that was ſpoken by them one to another? It is thought they ſpake contrary to what the wicked did; they <hi>bleſſed</hi> God, when others <hi>blasphemed</hi> him; and ſpake <hi>for</hi> him, when <hi>they</hi> ſpake <hi>against</hi> him. And then,</p>
+            <p n="5">5. <hi>God,</hi> he ſpeaks; and he ſpeaks <hi>comfortably</hi> to them; — <hi>They ſhall be mine, ſaith the Lord of hoſts, in the day that I make up my Jewels, and I will ſpare them, as a man ſpareth his children that are near and dear unto him.</hi>
+            </p>
+            <p>Thus have I (as briefly as I could) brought
+<pb n="6" facs="tcp:39157:4"/>you unto the Text. And you may ſee what my Text (at the very firſt view of it) ſeems to be; (I ſhall make ſome uſe of it, and (I hope) to ſome purpoſe;) My Text is nothing elſe but <hi>An Holy Conventicle,</hi> (For, how could they <hi>ſpeak often one to another,</hi> if they did not <hi>often meet together?)</hi> and you have the <hi>probation</hi> and <hi>approbation</hi> of it;</p>
+            <list>
+               <item>1. The <hi>probation</hi> of it, from the practice of God's People. And</item>
+               <item>2. The <hi>approbation,</hi> from the ſpeech of God himſelf.</item>
+            </list>
+            <p n="1">1. The <hi>probation.</hi> They don't aſſemble them<g ref="char:EOLhyphen"/>ſelves together (as the prophane rabble of the world would make it) for <hi>evil practices,</hi> and for <hi>evil purpoſes.</hi> And</p>
+            <p n="2">2. It cannot be <hi>ſo bad;</hi> nay, it muſt be <hi>ſingu<g ref="char:EOLhyphen"/>larly good</hi> for them ſo to meet together, or elſe it would not have that promiſe made of God unto it, as you ſee in the words.</p>
+            <p>In the Text,
+<list>
+                  <item>1. You have Chriſtians <hi>regarded,</hi> And</item>
+                  <item>2. <hi>Recorded</hi> (for the credit of them) for their meeting together.</item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Regarded.</hi> The Text ſayes, The Lord <hi>hearkened and heard.</hi> 'Tis a word that implies a <hi>diligent attention</hi> unto any thing; and (as one ob<g ref="char:EOLhyphen"/>ſerves well upon the place) there is the <hi>attention</hi> of the <hi>ear,</hi> and the <hi>intention</hi> of the <hi>mind.</hi> And then,</p>
+            <p>'Tis <hi>recorded.</hi> That whatever they ſpake, all
+<pb n="7" facs="tcp:39157:4"/>their <hi>ſpeeches, prayers, &amp;c.</hi> they were entred in<g ref="char:EOLhyphen"/>to God's <hi>Book of Remembrance.</hi> As God has his <hi>bottle,</hi> ſo he has his <hi>book;</hi> as he is preſent in the <hi>Aſſembly,</hi> to <hi>bottle</hi> up their <hi>tears;</hi> ſo he is there with his <hi>Book,</hi> to write down all their <hi>perfor<g ref="char:EOLhyphen"/>mances.</hi> God has but two books, the book of his <hi>Documents,</hi> and the book of his <hi>Monuments:</hi> now if we <hi>learn &amp; live</hi> according to the book of Gods <hi>documents,</hi> we ſhall be ſure to be <hi>recorded in,</hi> and <hi>rewarded according to</hi> God's Book of <hi>Monuments,</hi> where he hath written down the carriages of his Saints and People.</p>
+            <p>But now, for the matter of the Text it ſelf: you may be pleaſed to obſerve theſe particulars;
+<list>
+                  <item>1. The <hi>Perſons, who;</hi>
+                  </item>
+                  <item>2. The <hi>Act, what;</hi>
+                  </item>
+                  <item>3. The <hi>Time, when;</hi>
+                  </item>
+                  <item>4. The <hi>Manner, how;</hi>
+                  </item>
+                  <item>5. The <hi>Subjects, with whom</hi> they were thus meeting.</item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Perſons, who.</hi> Who? They are they that <hi>fear the Lord.</hi>
+            </p>
+            <p n="2">2. The <hi>Act, what</hi> they are about. Some may think, ſure they are about ſome vain fooliſh thing or other. No, they are talking and diſcourſing of God, and <hi>of holy things.</hi> And then,</p>
+            <p n="3">3. The <hi>time, when.</hi> When wicked and un<g ref="char:EOLhyphen"/>godly men were <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laspeming</hi> God, when they were feaſting, and in the midſt of their jovialty, <hi>then</hi> theſe were keeping a Conventicle. And then,</p>
+            <pb n="8" facs="tcp:39157:5"/>
+            <p n="4">4. The <hi>manner, how.</hi> Some may ſay, They will be quickly weary of thus ſpending time to<g ref="char:EOLhyphen"/>gether; they may do it <hi>once</hi> it may be. No, but they do it <hi>often.</hi> — They <hi>ſpake often one to ano<g ref="char:EOLhyphen"/>ther.</hi> And then</p>
+            <p n="5">5. The <hi>Subjects, with whom</hi> they did it; and that with thoſe of their <hi>own party, opinion,</hi> and <hi>perſwaſion,</hi> thoſe that were <hi>fellow-Jewels</hi> with themſelves, thoſe whoſe names were written in the <hi>Book of Life.</hi>
+            </p>
+            <p>Thus have I given you the <hi>diviſion</hi> of the Text. The <hi>Obſervations</hi> are theſe;</p>
+            <p n="1">1. <hi>Obſer.</hi> That let the <hi>Times</hi> be never ſo <hi>bad,</hi> and never ſo <hi>prophane,</hi> yet the Lord has a cer<g ref="char:EOLhyphen"/>tain number of people that are <hi>good</hi> at that time. Though the Devil has <hi>moſt,</hi> yet God ever has the <hi>beſt;</hi> he will take the choice unto himſelf: <hi>Then they that feared the Lord, &amp;c.</hi>
+            </p>
+            <p n="2">2. <hi>Obſer.</hi> That when wicked men are the <hi>worſt,</hi> then God's People are the <hi>best; — Then they that feared the Lord,</hi> they ſtood up, and there was a holy courage within them: It was <hi>winter</hi> with the wicked, and therefore it was <hi>fire</hi> with the righteous, they burnt the hotter.</p>
+            <p n="3">3. <hi>Obſer.</hi> That the fear of God is a ſingular Antidote againſt <hi>Atheiſm</hi> and <hi>Apoſlacy. — They that feared the Lord,</hi> then they ſtood up.</p>
+            <p n="4">4. <hi>Obſer.</hi> That <hi>holy Conference,</hi> 'tis a moſt ne<g ref="char:EOLhyphen"/>ceſſary duty in <hi>unholy times.</hi> As here you ſee, the Times the Prophet conplains of moſt bitter<g ref="char:EOLhyphen"/>ly,
+<pb n="9" facs="tcp:39157:5"/>how full of vileneſs and wickedneſs they were; Now the People of God, <hi>they met often one with another, conferred and diſcourſed often one with another.</hi>
+            </p>
+            <p>Brethren, you ſee here are four very ſweet and ſoveraign Doctrines; they are all ſo ſingu<g ref="char:EOLhyphen"/>lar, that (I confeſs) I can't tell which of the four to chuſe, and to make the ſubject of my diſcourſe.</p>
+            <p>Here is that that is matter of <hi>comfort,</hi> of <hi>credit,</hi> of <hi>ſafety,</hi> and of <hi>duty</hi> unto you; As</p>
+            <p n="1">1. That the times are never ſo <hi>bad,</hi> but that God has ſome that are <hi>good</hi> in thoſe times, (ſe<g ref="char:EOLhyphen"/>ven thouſand in the Prophet <hi>Elijah's</hi> time, though he did not know it; ſo, there may be many now that we do not know of.) That's matter of <hi>comfort.</hi>
+            </p>
+            <p n="2">2. That the <hi>worſe</hi> others are, the <hi>better</hi> will God's People be. Brethren, this is matter of <hi>credit</hi> and <hi>commendation</hi> to God's People, that they will not be made the <hi>worſe,</hi> but are made the <hi>better</hi> by <hi>bad times.</hi>
+            </p>
+            <p n="3">3. That the fear of God is a <hi>preſervative</hi> againſt the infection of <hi>Atheiſm</hi> and <hi>Apoſtacy:</hi> This is matter of <hi>ſafety</hi> and <hi>ſecurity.</hi> We ſee <hi>Cedars</hi> blown up by the root, but ſo long as we have the fear of God in us, we ſhall never be blown up.</p>
+            <p n="4">4. Theſe are the moſt unholy times (I am per<g ref="char:EOLhyphen"/>ſwaded) that ever <hi>England</hi> ſaw: Now, Brethren, for us to meet together, and confer together, and
+<pb n="10" facs="tcp:39157:6"/>pray together, is but a performance of that <hi>duty</hi> that is required of us. And this I could chuſe very well, to make the ſubject of my diſcourſe:</p>
+            <p>But, as <hi>Samuel,</hi> when many were brought be<g ref="char:EOLhyphen"/>fore him, 1 <hi>Sam.</hi> 16. <hi>This</hi> I could think the Lord's Anointed, and <hi>another,</hi> and <hi>another;</hi> but it was a <hi>David,</hi> a <hi>little younger ſon</hi> that the Lord had choſe: O ſo (me-thinks) I could think of theſe four Doctrines; yet there is a little Do<g ref="char:EOLhyphen"/>ctrine, a little <hi>David</hi> yet behind (methinks) that I would deſire to ſpend a little diſcourſe on at this time, and that is,
+<q>Doct. <hi>That the Fearers of God are, and ought to be frequenters of Conventicles.</hi>
+               </q>
+            </p>
+            <p>I choſe this ſubject upon this double account,</p>
+            <p n="1">1. Becauſe no thing is more <hi>derided by wicked men</hi> than theſe are; and truly, nothing more <hi>ſlighted</hi> (for the moſt part) by the <hi>Godly them<g ref="char:EOLhyphen"/>ſelves</hi> than theſe are. Now to raiſe the <hi>honour</hi> of <hi>Conventicles</hi> againſt the <hi>contempt</hi> of <hi>wicked men,</hi> and the <hi>value</hi> of them againſt the <hi>contempt of godly men,</hi> I thought good to ſay ſomething of it, to declare the <hi>excellency</hi> of it.</p>
+            <p n="2">2. I choſe it, becauſe that in <hi>this Doctrine</hi> is contained the extract of all the <hi>other Doctrines:</hi> For,</p>
+            <p n="1">1. If I can make this good to you, (as I hope I ſhall) <hi>here</hi> you ſhall be ſure to meet with ſuch
+<pb n="11" facs="tcp:39157:6"/>as are <hi>good in bad times:</hi> and there you meet with the <hi>first Doctrine.</hi>
+            </p>
+            <p n="2">2. <hi>By frequenting of Conventicles,</hi> you will be made the <hi>better</hi> by the <hi>prayers</hi> and <hi>exhortations</hi> of God<hi>'s faithful Miniſters,</hi> and thoſe that <hi>fear the Lord.</hi> And this will make the <hi>ſecond Doctrine,</hi> That the <hi>worſe</hi> others are, the <hi>better</hi> they be.</p>
+            <p n="3">3. <hi>By frequenting of Conventicles,</hi> you will at<g ref="char:EOLhyphen"/>tain to the <hi>more fear of the Lord,</hi> and ſo attain to <hi>more ſafety;</hi> And there you meet with the <hi>third Doctrine.</hi>
+            </p>
+            <p n="4">4. <hi>By frequenting of Conventicles,</hi> you will perform <hi>Duty;</hi> And that's the ſumme of the <hi>laſt Doctrine.</hi>
+            </p>
+            <p>Now, in the proſecution of this point, I ſhall a little make bold,
+<list>
+                  <item>1. To <hi>explain</hi> this Doctrine.</item>
+                  <item>2. To <hi>confirm</hi> it.</item>
+               </list>
+            </p>
+            <p>And ſo to make <hi>application</hi> of it.</p>
+            <p>For the firſt. For the <hi>explication.</hi> There is but two things to be explained,
+<list>
+                  <item>1. What's meant by a <hi>Conventicle?</hi>
+                  </item>
+                  <item>2. What by the <hi>Fearers of God?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, for a <hi>Conventicle:</hi> 'tis nothing elſe but a <hi>meeting together</hi> of men and women in one place. That's the proper meaning of that word, <hi>Conven<g ref="char:EOLhyphen"/>ticle.</hi> And then</p>
+            <p>You muſt know, there are two ſorts of <hi>Con<g ref="char:EOLhyphen"/>venticles;</hi> ſuch as are the <hi>greater,</hi> and ſuch as are the <hi>leſſer</hi> Conventicles: the great ones in the
+<pb n="12" facs="tcp:39157:7"/>
+               <hi>Churches,</hi> and the leſſer ones in <hi>Chambers,</hi> or in <hi>private Houſes,</hi> and no more difference, but with reſpect to the <hi>degrees</hi> of them; and more or leſs does not any way vary the <hi>kind.</hi> And if there be any ſuch that deride private Meetings in Cham<g ref="char:EOLhyphen"/>bers as <hi>Conventicles,</hi> they do throw dirt into the <hi>Congregation of God.</hi> And</p>
+            <p>Again; There is a twofold <hi>Conventicle,</hi> a <hi>bad,</hi> and a <hi>good.</hi>
+            </p>
+            <p n="1">1. A <hi>bad:</hi> A Convention or meeting toge<g ref="char:EOLhyphen"/>ther of ungodly men, for <hi>wicked ends,</hi> and to ac<g ref="char:EOLhyphen"/>compliſh wicked deſigns. [And indeed, they are only theſe which may properly be called <hi>Conven<g ref="char:EOLhyphen"/>ticles.</hi>] This (in Scripture) hath many names given unto it; It is called the <hi>Convention of De<g ref="char:EOLhyphen"/>riders:</hi> 'tis called the <hi>Councel of Scorners,</hi> Pſal. 1.1. 'tis called the <hi>Congregation of Hypocrites, &amp;c,</hi> Job 15.34.</p>
+            <p>Now, for the matter of <hi>their ends,</hi> why <hi>they convent</hi> themſelves, they are ordinarily theſe ſix;</p>
+            <p n="1">1. They meet to <hi>offer up worſhip to Idols,</hi> 1 Kin. 18.20, &amp; 26.</p>
+            <p n="2">2. They meet to <hi>defile themſelves and bodies,</hi> 1 Tim. 1.10.</p>
+            <p n="3">3. They meet to <hi>abuſe the creatures;</hi> to <hi>run on in exceſs of riot,</hi> 1 Pet. 4.4.</p>
+            <p n="4">4. They meet to <hi>ſlander,</hi> to <hi>cenſure,</hi> and to <hi>ſcandalize the People of God.</hi> Pſal. 41.5, 6, 7, 8.</p>
+            <p n="5">5. They meet to lay their deſign for the <hi>ruine</hi> and <hi>deſtruction,</hi> and <hi>extirpation of the Churches and
+<pb n="13" facs="tcp:39157:7"/>People of God,</hi> Prov. 30.14. Act. 22.22. And</p>
+            <p n="6">6. They meet to <hi>diſturb the peace of the Place and Nation where they are.</hi> Pſal. 140.2.</p>
+            <p>Theſe are ſuch as (in <hi>their ſenſe</hi>) they call <hi>Conventicles.</hi> And I know none more guilty than <hi>they</hi> that frequent <hi>Play-houſes, Whore-houſes, Alehouſes</hi> and <hi>Taverns,</hi> where wicked men come to make their <hi>Songs</hi> againſt the People of God. And theſe (in Scripture-ſenſe) may more fitly be called <hi>Confederacies</hi> than <hi>Conventicles.</hi> For my part, I think ſuch places worthy to be puniſhed by the Judges.</p>
+            <p>Secondly, (Brethren) There is a <hi>good</hi> and a <hi>holy Conventicle;</hi> That is, when God's People meet together for <hi>holy ends,</hi> to perform <hi>holy acti<g ref="char:EOLhyphen"/>ons.</hi> And this (my Brethren) is called the <hi>Con<g ref="char:EOLhyphen"/>gregation of the Righteous,</hi> Pſal. 1.5. the <hi>Aſſem<g ref="char:EOLhyphen"/>bly of the Saints,</hi> Pſal. 89.5. the <hi>meeting together of the upright ones,</hi> Pſal. 111.1. And many ſuch names are given to it in Scripture.</p>
+            <p>And the <hi>ends</hi> that they meet for, they are <hi>very many,</hi> and <hi>as good as many;</hi> (And when I ſpeak of this <hi>Conventicle,</hi> I mean nothing but the <hi>Commu<g ref="char:EOLhyphen"/>nion of Saints.</hi>)</p>
+            <p>That God's People meet together in private in evil times; —</p>
+            <p n="1">1. 'Tis not in <hi>contempt</hi> of the <hi>Publick Aſſem<g ref="char:EOLhyphen"/>blies.</hi> The Lord (that knows our hearts) knows, that while we had <hi>Publick Aſſemblies,</hi> and the <hi>Ordinances in purity,</hi> without the mixture of diſ<g ref="char:EOLhyphen"/>taſteful
+<pb n="14" facs="tcp:39157:8"/>things, we did prize Publick Ordinan<g ref="char:EOLhyphen"/>ces, and did highly eſteem them; and the loſs of them is our grief, and the ground of our mourning. 'Tis not therefore out of <hi>contempt</hi> that we meet in private; for when we are to<g ref="char:EOLhyphen"/>gether there, we do mourn for our loſſes, and pray for the freedom of Publick Ordinances again. Much leſs —</p>
+            <p n="2">(2.) is the ground of our meeting in private for <hi>lewd practices,</hi> as the wicked are apt to charge us. The <hi>Heathens</hi> were wont to charge the <hi>Pri<g ref="char:EOLhyphen"/>mitive Chriſtians, That they met in the evening, and put out their Candles, and then they were guilty of all manner of lewdneſs.</hi> They muſe as they uſe; They themſelves are wicked in private, and they think others ſo: But <hi>now</hi> God's People, they <hi>mourn</hi> for the wickedneſs of the wicked; they <hi>detect</hi> the lewd practices of the wicked, and ther<g ref="char:EOLhyphen"/>fore are far from being guilty themſelves. Nor,</p>
+            <p n="3">3. Do God's People convent together to <hi>move Sedition,</hi> (That's another thing that's charged upon them.) No, Religion teacheth us better, <hi>to pray for Kings, and thoſe in Authority.</hi> And God, and the Places where we meet, can bear witneſs, that we make it our work to call on God for mercy for our King, and for our Governors. But—</p>
+            <p>When the People of God meet together in private, 'tis</p>
+            <p n="1">1. To <hi>confer</hi> one with another. This is plain
+<pb n="15" facs="tcp:39157:8"/>in the Text; — <hi>Then they that feared the Lord</hi> ſpake often <hi>one with another.</hi>
+            </p>
+            <p n="2">2. Another end why they meet together, it is to <hi>pray</hi> with one another, to <hi>pour out their ſouls</hi> into the boſom of God, to call and cry to God for mercy for the <hi>Nations,</hi> and mercy for their <hi>own Souls,</hi> and mercy for their <hi>Friends,</hi> and to ſupplicate God's return to them again.</p>
+            <p n="3">3. A third end is, to <hi>obſerve the Gifts and Gra<g ref="char:EOLhyphen"/>ces</hi> one of another.</p>
+            <p n="4">4. To <hi>break Bread</hi> one with another.</p>
+            <p n="5">5. To <hi>humble our ſouls</hi> exceedingly, for the <hi>ſins and calamities of the Age and Time wherein we live;</hi> to humble our ſelves for thoſe ſins that have provoked God to deprive us of Publick-Meetings. Such as fear the Lord, O they mourn for the ſins of their <hi>nature</hi> in private Meetings, and for the ſins of their <hi>lives;</hi> for their <hi>omiſſions</hi> and <hi>commiſſions;</hi> for their ſins of <hi>proſperity,</hi> for <hi>wantonneſs</hi> under means and mercies; for the ſins of <hi>Profeſſors,</hi> (for their <hi>formality</hi> and <hi>lukewarm<g ref="char:EOLhyphen"/>neſs</hi>) that have laid ſtumbling-blocks before the weak; and they mourn for the enmity and de<g ref="char:EOLhyphen"/>bauchery of the Wicked <hi>now,</hi> and for all thoſe diſhonours that are done to God.</p>
+            <p n="6">6. Another end of their meeting, is, to <hi>exhort</hi> one another.</p>
+            <p n="7">7. To <hi>warn</hi> one another.</p>
+            <p n="8">8. To <hi>edifie</hi> one another. The People of God they find themſelves <hi>weak, dull, ſad,</hi> therefore
+<pb n="16" facs="tcp:39157:9"/>they go into the <hi>communion of Saints</hi> in private places, that they may be <hi>ſtrengthened, quickened,</hi> and <hi>comforted</hi> by conference, and by the diſcharge of their duties.</p>
+            <p n="9">9. The People of God meet thus together, that they may <hi>meet with Chriſt,</hi> that they may have his ſweet preſence, and may be inſtructed of him, that they may have <hi>Chriſt's Spirit,</hi> and the <hi>graces</hi> and <hi>comforts</hi> of Chriſt. <hi>Act.</hi> 2.1, 2, 3, 4.</p>
+            <p n="10">10. They thus meet to <hi>advance the Name of God, and of Chriſt.</hi> That's rendred as the reaſon of their meeting here in the Text; When they were met together, the Text ſayes, <hi>they thought on his Name;</hi> every one was propoſing what they ſhould do to promote the Honour of God, what courſe they ſhould take to advance the In<g ref="char:EOLhyphen"/>tereſt of Jeſus Chriſt, how to further the Sal<g ref="char:EOLhyphen"/>vation of Souls.</p>
+            <p n="11">11. When you are met together, you muſt be ſure to <hi>praiſe the Lord;</hi> As you ought to begin with prayer, ſo you ſhould end with praiſe; God muſt never loſe the praiſe that is due unto his Name.</p>
+            <p n="12">12. You ought to meet together to <hi>excommu<g ref="char:EOLhyphen"/>nicate</hi> wicked men, to curſe them in the Name of God, <hi>(i. e.)</hi> ſuch as are impenitent, and no<g ref="char:EOLhyphen"/>thing will ſerve their turns but to reproach Gods People. Thus much for the explication of the firſt thing, <hi>(viz.)</hi> a <hi>Conventicle,</hi> what it is.</p>
+            <pb n="17" facs="tcp:39157:9"/>
+            <p>Secondly. The <hi>Fearers of God,</hi> What's mean by that? (This is as large to explain as the o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ther.)</p>
+            <p n="1">1. You muſt look upon the <hi>fear of God</hi> wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reverence to the <hi>Object</hi> of Fear, and the <hi>Autho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of Fear: The <hi>Object</hi> of Fear, ſo God is; the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Author</hi> of Fear; ſo God muſt be. Take it thus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> We muſt look unto God as the <hi>Object</hi> of Fear, and we muſt look unto God (as he is the <hi>Author</hi> of Fear) to make us the <hi>Subjects</hi> of Fear. And theſe two, they end in that ſame fear which is called a <hi>fear to offend.</hi>
+            </p>
+            <p n="2">2. There is a <hi>ſervile Fear,</hi> a <hi>ſlaviſh Fear,</hi> and a <hi>filial Fear,</hi> a <hi>Religious Fear.</hi> Some fear God becauſe he is a <hi>juſt</hi> God, and an <hi>avenger,</hi> more than for his <hi>goodneſs:</hi> but the other is a <hi>filial</hi> fear, whereby a gracious ſoul fears to offend God becauſe he is good and gracious.</p>
+            <p n="3">3. This <hi>Fear</hi> is taken two wayes, (1.) for the <hi>Worſhip</hi> of God; (2.) for our <hi>walking</hi> with God; our <hi>worſhipping God aright,</hi> and for our <hi>walking with God aright.</hi>
+            </p>
+            <p>Theſe two <hi>Fears</hi> are like two great <hi>Poles,</hi> on which the body of our Spiritual-Life doth move and turn.</p>
+            <p>And this fear of God it wil <hi>over-aw</hi> our hearts; it will keep us from ſinning; it will caſt out the fear of men; it will quicken to duty; it will draw out love; it will make you willing to lay down your life for <hi>him,</hi> who ſo readily laid down his life for <hi>you.</hi>
+            </p>
+            <pb n="18" facs="tcp:39157:10"/>
+            <p>Thus I have done with the firſt Particular, the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xplaining</hi> of the Text.</p>
+            <p>Secondly. For the <hi>proving</hi> on't, (though there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no great need, yet) take two or three Texts;</p>
+            <p>In <hi>Jer.</hi> 23.25. 'tis ſaid, That the people ſhall meet together, and enquire one of another, <hi>What hath the Lord anſwered? what hath the Lord ſpo<g ref="char:EOLhyphen"/>ken?</hi> They ſhould come together and enquire what the Lord had delivered to the Prophet.</p>
+            <p>So, in 1 <hi>Theſſ.</hi> 5.11, 14. <hi>Comfort your ſelves together, and edifie one another, even as alſo ye do.</hi> And, <hi>We exhort you, Brethren, warn them that are unruly, comfort the feeble-minded, ſupport the weak, be patient towards all men.</hi>
+            </p>
+            <p>And, in <hi>Heb.</hi> 10.23, 24, 25. (ſpeaking there that we ſhould continue conſtant in the profeſ<g ref="char:EOLhyphen"/>ſion of our Faith, ſaith he) <hi>Let us conſider one an<g ref="char:EOLhyphen"/>other, to provoke unto love, and to good-works, [not forſaking the aſſembling of our ſelves together,] as the manner of ſome is.</hi> No, God's People muſt not forſake the Conventicles.</p>
+            <p>One Text more, (and that's very full to this purpoſe;) in <hi>John</hi> 13.34, 35. There you ſhall find that our Saviour was telling his Diſciples, that <hi>he was going away from them;</hi> and, thinking that <hi>that</hi> would take away much of their comfort, ſaith he, <hi>A new Commandment give I unto you, that ye love one another.</hi> The meaning of the Text is this, (as ſome render it) <hi>'Tis true, you will have a great loſs by my abſence, but you may make it up by
+<pb n="19" facs="tcp:39157:10"/>the preſence one of another: Frequent comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one with another, help one another, and this make up the loſs, this will make up your comfort<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>For matter of <hi>preſidents,</hi> the Scripture is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> full.</p>
+            <p>When the Diſciples (for fear of the Je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were met together in a holy <hi>Conventicle,</hi> C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he came and ſtood in the midſt of them, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> parted his mind to them freely and fully, <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 20.19 &amp; 26 verſes.</p>
+            <p>And the <hi>Apoſtles</hi> themſelves ſpent their t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in little elſe than in <hi>meeting</hi> together; we re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their <hi>being met all together in one place with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> accord,</hi> Act. 2.1. of their <hi>going into an upper ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and continuing there with one accord in prayer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſupplication,</hi> Act. 1.13, 14. and again, of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>being aſſembled with one accord,</hi> Act. 15.25.</p>
+            <p>And it was their common courſe in the <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mitive times</hi> thus to meet together; As ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tertullian</hi> in his <hi>Apologie;</hi> ſaith he, <hi>We all m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> together in a Conventicle, and we knock at Heav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doors with our prayers, and we will not let God al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> till he be pleaſed to come down graciouſly unto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Know thus much, that all places are now ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ctified for our aſſembling. I confeſs, 'tis beſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>publick;</hi> Truth needs not to ſeek corners. Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>In every place Incenſe ſhall be offered up unto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Name,</hi> Mal. 1.11. And,—<hi>I will—that men pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every where, lifting up pure hands,</hi> 1 Tim. 2.8.</p>
+            <p>But now, what's the <hi>ground</hi> or <hi>reaſon</hi> that the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:39157:11"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſuch a care amongſt God's People, that ſhould thus <hi>frequent the Communion of Saints?</hi> anſwer,—</p>
+            <p>Becauſe there are <hi>many duties</hi> that are en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed God's People to perform, that if they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t conventicle, they can never perform; as, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling up one another in their moſt holy Faith,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 20. and their <hi>ſtrengthning</hi> and <hi>watching over another,</hi> &amp;c. How can theſe duties be done <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey don't meet together, and aſſemble them<g ref="char:EOLhyphen"/>ſelves together, to ſtrengthen, encourage, ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, reprove one another?</p>
+            <p n="2">2. Another <hi>reaſon</hi> is, That God hath given <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Gifts,</hi> of <hi>Abilities</hi> and <hi>Graces</hi> unto his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple, that they ſhould <hi>communicate</hi> them one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rother. That God has given <hi>light</hi> unto the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 'tis that it ſhould <hi>diſtribute</hi> its beams to Earth for the good of its Inhabitants. That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d hath given <hi>water</hi> unto the <hi>Sea,</hi> it is, that it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld ſend forth of its abundance in Rivers and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eams, that it may come to be ſerviceable un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the uſe of man. And ſo truly, that God hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de the light of the <hi>Sun of Righteouſneſs</hi> to ariſe the hearts of any of his People, and the beams his <hi>Graces</hi> and <hi>Gifts</hi> to be in them, 'tis that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſhould <hi>disperſe</hi> them, and <hi>communicate</hi> them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the uſe and ſervice one of another. As in Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 10.7. <hi>The manifeſtation of the Spirit is gi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to every man</hi> to profit <hi>withal.</hi> And, in <hi>Luke</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from ver. 13, to ver. 26. Chriſt (there) gave
+<pb n="21" facs="tcp:39157:11"/>variety of Talents, Why? For <hi>Improven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> There is no <hi>Gift, Grace,</hi> or <hi>Ability</hi> that God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> given to any one that is a member of his Chu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but he ought to be ſerviceable and inſtrume<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the ſame for the good of others. 'Tis enough for Merchants to have an <hi>Eſtate,</hi> but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt have <hi>a trading,</hi> they muſt go to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>change.</hi> So it is with Chriſtians; 'tis not eno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for them that they have <hi>gifts</hi> and <hi>graces,</hi> but t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt <hi>meet</hi> together in ſome place; that is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Exchange,</hi> where they do <hi>ſell</hi> ſuch and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> things <hi>to</hi> others, and <hi>buy</hi> ſuch and ſuch thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them again; I mean in a Goſpel ſenſe; <hi>(vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</hi> imparting Counſels and Admonitions <hi>to</hi> othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and receiving Exhortations &amp; Counſels <hi>of</hi> othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Some</hi> have the gift of <hi>reſolving Caſes of Conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ence; others</hi> have a ſpecial gift to <hi>pour out th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſouls in Prayer: Some</hi> (again) God has given gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> abilities to in the <hi>imparting of Experiences; ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to <hi>comfort</hi> and <hi>heal wounded Spirits,</hi> and ſuch lik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Now, every one of theſe muſt be <hi>improved a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> imployed;</hi> And how could this poſſibly thus be, it were not that they had <hi>meetings together?</hi> B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then—</p>
+            <p n="3">3. Another <hi>reaſon</hi> is, Becauſe that in the Meetings, they are ſure to meet with the Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Jeſus Chriſt. O my Brethren, whither wou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not a gracious heart go, if he were ſure to me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Chriſt there? Why, if thou comeſt thith<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the <hi>end</hi> thou oughteſt to come, (<hi>i. e.</hi> to me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="22" facs="tcp:39157:12"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt) he will be ſure to meet with thee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.—<hi>Where two or three are met together in my me, there am I in the midſt of them.</hi> He will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chſafe his ſpiritual and bleſſed preſence, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be giving out of his graces, and making <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arer diſcoveries of <hi>himſelf</hi> and of his <hi>love</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that come there to that end, to <hi>meet with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> Whence ſhould we come to have thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>athings of ſoul after Jeſus Chriſt? comes it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the Miniſters words? No, but from Chriſts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit. O therefore (Brethren) I beſeech you, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſeeing Chriſt <hi>promiſeth his preſence in ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> do not withdraw your ſelves from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne. Again,</p>
+            <p n="4">4. Another <hi>reaſon</hi> is, Becauſe in <hi>theſe Meet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gs</hi> we are ſure to meet with <hi>pure Ordinances,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th holy and heavenly Adminiſtrations and In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tutions; we ſhall have God's Worſhip in a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſpel-mould, without humane Inventions or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens Traditions. In the <hi>publick</hi> (many times) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Elephants hoof</hi> has been too deep in thoſe wa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, ſo that there is a great deal of need of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icorns horn:</hi> but here is nothing but what comes <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m an upright heart, guided and ordered accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to the <hi>Rule.</hi> And as God has ſet us <hi>apart</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Worſhip, ſo we ſhould <hi>uphold</hi> his Worſhip. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here the Carcaſe is, there the Eagles are gathered <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gether;</hi> And (not where the <hi>ſhew</hi> of an <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> is, but) where the true Ordinance of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord Jeſus Chriſt is, there the Eagles are upon <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir wings. Again,</p>
+            <pb n="23" facs="tcp:39157:12"/>
+            <p n="5">5. Another <hi>reaſon</hi> is, Becauſe this is an Arti<g ref="char:EOLhyphen"/>cle of our Faith; <hi>We believe the Communion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Saints.</hi> Now, my Brethren, we <hi>believing</hi> it in ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>principle,</hi> it would be ſad if we ſhould <hi>deny</hi> it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <hi>practice.</hi> It is ſtrange to me, that men ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſo zealous to <hi>ſtand up at</hi> the Creed, and not t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſtand up to</hi> the Creed, to keep all the Article there repeated. For a man to <hi>hold the Communio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Saints,</hi> and to <hi>oppoſe the Communion of Saints</hi> 'tis ſomewhat ſtrange: I ſhall not give much fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this man's faith. Thoſe men that <hi>hate and derid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Communion of Saints,</hi> I can't believe that they <hi>believe</hi> any ſuch thing as <hi>the Communion of Saints</hi> let their <hi>Creed</hi> be what it will. I fear there are too many that have no better account to give o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their <hi>belief,</hi> but that <hi>it must be ſo.</hi> Again,</p>
+            <p n="6">6. The People of God muſt be frequenters o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conventicles, becauſe of the <hi>great good</hi> that may be <hi>done</hi> and <hi>received</hi> by theſe Chriſtian Meetings. My Brethren, true <hi>communion,</hi> 'tis nothing elſe but the <hi>communication</hi> of our <hi>ſpiritual ſtrength,</hi> of our <hi>graces</hi> and of our <hi>comforts</hi> unto one another. <hi>Here</hi> (my Brethren) <hi>the tongue of the Wiſe is a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> choice Silver, and the lips of the Righteous feed ma<g ref="char:EOLhyphen"/>ny.</hi> Many times there are thoſe that have got ſo much comfort, ſtrength, building up in faith and reſolution at ſuch a Meeting, that they have had cauſe to bleſs God for it forever. Many times a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Merchant gets more mony in <hi>one hour on the Ex<g ref="char:EOLhyphen"/>change,</hi> than in a <hi>whole day in his own Warehouſe:</hi>
+               <pb n="24" facs="tcp:39157:13"/>So, many times God's People get more in one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the <hi>Exchange, at the place of the meeting of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od's People,</hi> than at <hi>home</hi> in a <hi>whole day.</hi>
+            </p>
+            <p n="7">7. For the People of God thus to meet toge<g ref="char:EOLhyphen"/>ther, it is one way of owning and honouring of Chriſt. That when good things are frequently left off, we ſhould be found in the practice of them, ſuch as Pſalms are, and the like, thus we honour our Lord Jeſus.</p>
+            <p n="8">8. Thus to aſſemble our ſelves, and perform our duty to the Moſt-High, does much hinder the prevalency of corruption. If we ſhould leave off aſſembling our ſelves, corruption would get head; you can't omit a duty but your ſin will be encouraged by it. <hi>Thomas</hi> was abſent from that holy Conventicle, <hi>John</hi> 20.24, 25. and his un<g ref="char:EOLhyphen"/>belief got nead; <hi>I will not believe</hi> (ſayes he) <hi>till I ſee his wounds.</hi> Omit Prayer in a morning, and <hi>Paſſion</hi> will get head that morning. Therefore the People of God ſhould thus meet together, to prevent the growth of their corruptions.</p>
+            <p>Now, all this laid together, I hope you will give me leave to conclude, <hi>That it is a very ne<g ref="char:EOLhyphen"/>ceſſary duty, for God's Peopls to meet often one with another.</hi>
+            </p>
+            <p>Now for the Application of this point.</p>
+            <p>Let it be,</p>
+            <p>Firſt, A <hi>Uſe of Information.</hi> If it be thus, (Brethren) that the Fearers of God are and ought to be frequenters of Conventicles, the Old-Te<g ref="char:EOLhyphen"/>ſtament-Believers
+<pb n="25" facs="tcp:39157:13"/>were ſo, and the New-Teſta<g ref="char:EOLhyphen"/>ment-Believers were ſo, as you have heard, Then</p>
+            <p n="1">1. It does inform us what we ſhould think of thoſe men that hate, abhor, deride, detect, op<g ref="char:EOLhyphen"/>poſe, make Laws againſt, and perſecute the Aſ<g ref="char:EOLhyphen"/>ſemblies of God's People: What to think of them? why that they are ignorant of that very Religion that they profeſs; to think of them as enemies of goodneſs, as limbs of Satan, and Factors for Hell; yea, worſe than very Heathens and Infidels themſelves. <hi>Nero,</hi> and other Roman Magiſtrates, will one day riſe up againſt that Ge<g ref="char:EOLhyphen"/>neration that do oppoſe, oppreſs, depreſs the Meetings of Gods People; for <hi>they permitted Paul to dwell in his own hired houſe, and let ſuch as would come unto him, and</hi> (ſaith the Text) <hi>no man hin<g ref="char:EOLhyphen"/>dered him,</hi> Act. 28.30, 31. Nay, the Grand-<hi>Turk</hi> (that great enemy of Chriſtianity) will riſe up againſt this Generation; for, pay him but <hi>Toll</hi> and <hi>Tribute,</hi> and he will let you enjoy your <hi>Liberty in Religion.</hi>
+            </p>
+            <p n="2">2. What does it inform us of them that will needs be accounted Profeſſors of Chriſtianity, and very good Chriſtians would be thought to be, yet will be ſo ſhy as to ſhun all theſe Meetings, they will not come nigh them? Why, that they have too much of the fea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of men, and too little of the fear of God: <hi>that's</hi> the reaſon they will not come thither. It was a very great blemiſh in <hi>Nichodmus's</hi> Coat of Arms, that he would not
+<pb n="26" facs="tcp:39157:14"/>come to our <hi>Saviour's Conventicle</hi> but by night, (<hi>Joh.</hi> 3.2.) when none ſhould take notice of him: and 'tis a greater diſhonour to them that will ne<g ref="char:EOLhyphen"/>ver come at all, neither in the day, nor at night neither. Even as it was with <hi>Nichodemus</hi> and o<g ref="char:EOLhyphen"/>thers of the Jews, <hi>they were afraid they ſhould be thruſt out of the Synagogue:</hi> So (I have cauſe to think) many of theſe are afraid of <hi>Communica<g ref="char:EOLhyphen"/>tion,</hi> and <hi>all</hi> becauſe they are afraid of <hi>Excommu<g ref="char:EOLhyphen"/>nication.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> I know what ſome will plead for them<g ref="char:EOLhyphen"/>ſelves, to take off all ſuch kind of cenſures as theſe, <hi>viz.</hi> That there are <hi>Publick</hi> Meetings and Aſſemblies—.</p>
+            <p>
+               <hi>Anſw.</hi> Take heed of touching any ſuch Pitch, leſt you ſhould be defiled with the ſame. Take this for a Rule, <hi>That Worſhip which we ought to perform to the Moſt-High, and be found in the practice of ought to be both for the matter and man<g ref="char:EOLhyphen"/>ner thereof, according to the preſcribed Rule of Gods Word only, no men on Earth having authority to de<g ref="char:EOLhyphen"/>viſe according to their own fancies and imaginati<g ref="char:EOLhyphen"/>ons, any forms of God's Worſhip and Service.</hi> Any Worſhip which is not bottom'd and grounded upon the Word of God, is a <hi>falſe Worſhip,</hi> and ſuch as we may not lawfully be <hi>preſent at,</hi> unleſs ſome way or other we do ſhew our diſlike, or de<g ref="char:EOLhyphen"/>clare our diſſent.</p>
+            <p>I ſhall now give you (1.) ſome diſcoveries of a falſe Worſhip, and then (2.) prove to you the
+<pb n="27" facs="tcp:39157:14"/>unlawfulneſs of being preſent at ſuch a way of Worſhip, when by our preſence we do ſeem to own, or to countenance, or to approve of it.</p>
+            <p>Firſt, To give you ſome diſcoveries of a falſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſhip.</p>
+            <p n="1">1. When it's ſuch a worſhip, the patern where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f is taken from Idolaters, and not from the pra<g ref="char:EOLhyphen"/>ctice of the holy <hi>Prophets</hi> and <hi>Apoſtles</hi> of God. Thus, if you obſerve that place in 1 <hi>King.</hi> 16.31. <hi>Ahab taking to wife Jezebel, the daughter of Eth<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aal King of the Zidonians, went and ſerved Baal, and worſhipped him. Ahab</hi> marrying <hi>Jezebel,</hi> he will preſently be of his wife's Religion. And we might note this by the way, <hi>That it's a very dan<g ref="char:EOLhyphen"/>gerous thing for thoſe that are of the true Religion, to marry with thoſe that are of a falſe Religion.</hi> When the children of <hi>Iſrael</hi> began to fall in love with the daughters of <hi>Moab,</hi> they ſoon fell to commit Idolatry with them. <hi>Solomon's</hi> Wives you know how they drew him to Idolatry. Wives when they are naught, are oftentimes great In<g ref="char:EOLhyphen"/>ſtruments to draw their husbands unto falſe wor<g ref="char:EOLhyphen"/>ſhip. So that hence they took their pattern for this worſhip of <hi>Baal, from the Idolaters.</hi> Yea, when God had preſcribed <hi>Moſes</hi> the pattern of his Houſe, how he ought to frame the <hi>Tabernacle</hi> for his Worſhip; if <hi>Moſes</hi> ſhould have left that, and gone to the Nations round about him, and taken patterns from <hi>them,</hi> would not this have been a great abomination in the ſight of God?
+<pb n="28" facs="tcp:39157:15"/>Why, ſhould <hi>we</hi> lay by the <hi>Rule</hi> of the <hi>Word,</hi> and the practice of the <hi>Churches</hi> in the dayes of the Apoſtles recorded in the Scriptures, and go unto <hi>Turkie,</hi> to take our pattern of Worſhip from the <hi>Pagans,</hi> or go unto <hi>Rome,</hi> and borrow our <hi>forms,</hi> and <hi>rites,</hi> and <hi>modes</hi> of Worſhip from the <hi>Papiſts;</hi> would not this be to preſent an unclean thing unto the Lord, who hath ſo ſtrictly commanded his People, that they ſhould not ſo much as en<g ref="char:EOLhyphen"/>quire after other Nations, how they worſhip their Gods, nor imitate them in any of their actions? <hi>Deut.</hi> 12.30, 31, 32. Why ſhould <hi>Light</hi> go to borrow of <hi>Darkneſs?</hi> ſhall the Church of Chriſt take their pattern of Worſhip from Anti<g ref="char:EOLhyphen"/>chriſt? can there any pure Water (fit for the ſervice of the Sanctuary and the City of our God) flow out of the <hi>Romiſh</hi> puddle? or, can a man pick any <hi>Gold</hi> (for the adorning of the Temple of Chriſt) out of the <hi>Popes dunghil,</hi> where there is nothing but <hi>mire</hi> and <hi>filth?</hi> Though you ſhould take a <hi>Spaniard,</hi> or a <hi>French-man,</hi> and put an <hi>Engliſh coat</hi> upon him, yet this does not make him an <hi>Engliſh man:</hi> So, if there be <hi>one thing</hi> in the way of Worſhip that was not preſcribed nor pra<g ref="char:EOLhyphen"/>ctiſed in the dayes of Chriſt, or in the dayes of the Apoſtles recorded in Scripture, it is born out of due time, and is the innovation and invention of Antichriſt, and it is certainly a falſe worſhip.</p>
+            <p n="2">2. Such a worſhip as has been <hi>caſt out</hi> by the People of God in <hi>reforming times,</hi> and afterwards
+<pb n="29" facs="tcp:39157:15"/>in <hi>corrupt times is brought in again,</hi> this is (cer<g ref="char:EOLhyphen"/>tainly) a falſe worſhip. So it was here in this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame worſhip of <hi>Baal</hi> which we have been ſpeak<g ref="char:EOLhyphen"/>ing of. You ſhall find it was in <hi>Iſrael</hi> many years before <hi>Ahab,</hi> for (in <hi>Judg.</hi> 2.11.) 'tis ſaid, That <hi>the children of Iſrael did evil in the ſight of the Lord, and ſerved Baalim; and they forſook the Lord God of their fathers, which brought them out of the Land of Egypt, and followed other gods, &amp;c.</hi> And afterwards (in <hi>chap.</hi> 6.) you find how that they raiſed up ſome <hi>other forms,</hi> pull down the Altars of <hi>Baal,</hi> and aboliſh all the worſhip of <hi>Baal</hi> in <hi>Iſrael.</hi> And indeed, you may obſerve concern<g ref="char:EOLhyphen"/>ing the people of <hi>Iſrael,</hi> that when (for their run<g ref="char:EOLhyphen"/>ning a whoring after falſe worſhip) the judge<g ref="char:EOLhyphen"/>ments of God were upon them; Then they cried unto the <hi>Lord,</hi> and God <hi>delivered</hi> them. And you ſhall then often find a very zealous ſpirit upon them againſt falſe Worſhip; then they pul down the Altars of <hi>Baal,</hi> &amp; cut down the Groves, and break in pieces the Idols, and enter into a Covenant with God, that they will keep <hi>cloſe</hi> to <hi>his Worſhip:</hi> but after a few years are over again, (by means of ſome evil Princes or Governours, who did diſcountenance the true wayes of God, and were favourers of Idolatry) the people fell to falſe worſhip again, and did <hi>build</hi> again the things that they had <hi>deſtroyed.</hi> Now, God com<g ref="char:EOLhyphen"/>mands his People to <hi>come out of Babylon;</hi> now, when they <hi>have</hi> come out (in any degree or mea<g ref="char:EOLhyphen"/>ſure)
+<pb n="30" facs="tcp:39157:16"/>by caſting off <hi>corruptions in worſhip,</hi> the Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> likes not that they ſhould go back again, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould return to thoſe corruptions fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whence they had before departed.</p>
+            <p n="3">3. When 'tis ſuch a way of worſhip as is mat<g ref="char:EOLhyphen"/>ter of <hi>great offence,</hi> and a <hi>burden</hi> to the Godly in a Nation. So it was here too in this worſhip of <hi>Baal;</hi> though the <hi>moſt</hi> and <hi>worſt</hi> of the people of the Jews fell <hi>in</hi> with it, yet there were thouſands in <hi>Iſrael</hi> (which <hi>feared the Lord</hi>) that were great<g ref="char:EOLhyphen"/>ly offended with it, and cryed out againſt it, and withdrew from it. Surely it's one ſign <hi>that Wor<g ref="char:EOLhyphen"/>ſhip is not of God,</hi> when the moſt holy and gracious and ſtrict-living people in a Nation are greatly offended with it, and cannot ſubmit unto it; and when 'tis the wicked and ungodly tout in a Na<g ref="char:EOLhyphen"/>tion that do ſo exceedingly deſire it, and take their reſt in it. Why, that a way of Worſhip is ſo well lik'd of by the ſuperſtitious and ungodly people in a Nation, is argument enough how much it is diſliked of by God. In <hi>Exod.</hi> 8.26. when <hi>Pharaoh</hi> would have had <hi>Moſes</hi> to have ſa<g ref="char:EOLhyphen"/>crificed in the Land, (—<hi>Sacrifice to God in the Land.</hi>) Sayes <hi>Moſes,</hi> 'Tis not meet ſo to do; for we ſhall ſacrifice the abominations of the Egyp<g ref="char:EOLhyphen"/>tians to the Lord our God: <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, ſhall we ſacrifice the Abominations of the Egyptians before their eyes, and ſhall they not ſtone us?</hi> will they not ſtone us? Mark, The pure and ſincere Worſhip of God, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would have been an Abomination to the <hi>Egyp<g ref="char:EOLhyphen"/>tians,</hi>
+               <pb n="31" facs="tcp:39157:16"/>they would not have endured it, but would have faln upon them and ſtoned them. Ah! my Brethren, the pure Ordinances of God, are hated by the carnal world, they don't like of them. I but when a way of worſhip is ſo well liked, and approved of by thoſe that are the worſt, and the moſt prophane in a Nation, that may be argu<g ref="char:EOLhyphen"/>ment enough to prove that 'tis not of God; for, if it were God's Worſhip, they would not love it nor delight in it. So then, I ſay, when the mul<g ref="char:EOLhyphen"/>titude of thoſe that are the moſt vicious, ungra<g ref="char:EOLhyphen"/>cious and unholy, thoſe that are the groſs, looſe, ſuperſtitious and wicked in a Nation, are the peo<g ref="char:EOLhyphen"/>ple that do like and love it, ſurely this is ano<g ref="char:EOLhyphen"/>ther ſign <hi>that Worſhip is not of God.</hi>
+            </p>
+            <p n="4">4. And laſtly. When 'tis ſuch a way of Wor<g ref="char:EOLhyphen"/>ſhip as people are <hi>forced</hi> into by <hi>violence</hi> and <hi>com<g ref="char:EOLhyphen"/>pulſion,</hi> whether they like or approve of it or no. Thus it was alſo with this Worſhip of <hi>Baal;</hi> it was as much as their lives were worth not to ſub<g ref="char:EOLhyphen"/>mit to it. Thoſe that would not bow down to the golden Image, they muſt be thrown into the fie<g ref="char:EOLhyphen"/>ry Furnace, <hi>Dan.</hi> 3.6. And 'tis the known mark of the <hi>Beaſt</hi> and his falſe worſhippers, <hi>Rev.</hi> 13.16. that <hi>he cauſeth all, both ſmall and great, rick and poor, free and bond, to receive a mark in their right<g ref="char:EOLhyphen"/>hand, or in their foreheads; and that no man might buy or ſell, ſave he that had the mark.</hi> That is, thoſe that would not by ſome act or other, by ſome kind of teſtimony or other, teſtifie their
+<pb n="32" facs="tcp:39157:17"/>conformity unto his worſhip, they muſt be impri<g ref="char:EOLhyphen"/>ſoned, they muſt be baniſhed. The worſhip of Antichriſt, 'tis an <hi>Iron yoke,</hi> it will <hi>break</hi> thoſe that will not <hi>bow</hi> unto it. If men will not believe their Doctrines, and ſubſcribe their Articles and ſubmit unto their Worſhip, what then? Why then they muſt be fined, then impriſoned, then baniſhed. Why now, certainly, this is not the way of Chriſt, that men ſhould be <hi>whipped</hi> and <hi>ſcourged,</hi> and <hi>driven</hi> into the profeſſion of his Religion, and the practice of his Worſhip; that they ſhould be forced into it by fire and faggot, ſtrappado's and gallows's: No, the way of Chriſt is, to <hi>teach</hi> people, and to <hi>inſtruct</hi> them; to <hi>per<g ref="char:EOLhyphen"/>ſwade Japhet</hi> to dwell in the tents of <hi>Shem:</hi> he would not have his Religion <hi>forced</hi> on any one; that people (by Fines, Impriſonments and Ba<g ref="char:EOLhyphen"/>niſhments) ſhould be <hi>forced</hi> into the acknow<g ref="char:EOLhyphen"/>ledgement of him; He would have men <hi>drawn</hi> to him, and not <hi>compelled</hi> to him; for indeed, <hi>no man's judgement can be commanded by another man's will.</hi>
+            </p>
+            <p>But now, having given you ſome diſcoveries of a falſe Worſhip, I come to the proof of the ſecond thing which I propoſed, That it is not lawful to be preſent at ſuch worſhip, <hi>(i. e.)</hi> when by your preſence there you ſeem to own it, to approve of it, to aſſent or conſent to it: You have a clear proof of it in 1 <hi>King.</hi> 19.18. <hi>Yet I have left me ſeven thouſand in Iſrael, all the knees
+<pb n="33" facs="tcp:39157:17"/>that have not bowed unto Baal, and every mouth which hath not kiſſed him.</hi> They would not bow the knee to <hi>Baal,</hi> nor kiſs him with the lip. This denying to bow the knee, and to kiſs with the mouth, ſheweth, that they did not only in <hi>heart abhor</hi> this falſe worſhip, but that they would not by any outward act ſo much as <hi>ſeem</hi> to own it, or countenance it; The meaning (in ſhort) is, they did no way conform themſelves to that corrupt ſervice of the times. Another Scripture for this you have in 2 <hi>Chron.</hi> 11. the 15th &amp; 14th verſes compared. When <hi>Jeroboam</hi> had ſet up Calves there, and commanded all the people to Worſhip them, in ver. 15. 'tis ſaid, <hi>He ordained him Prieſts for the High-places, and for the Devils, and for the Calves which he had made.</hi> But now, in ver. 14. <hi>The Levites left their ſuburbs, and their poſſeſſions, and came to Judah and Jeruſalem (for Jeroboam and his ſons had caſt them off from executing the Prieſts Office unto the Lord:) and after them, out of all the Tribes of Iſrael, ſuch as ſet their hearts to ſeek the Lord God of Iſrael, came to Jeruſalem to ſacrifice unto the Lord God of their Fathers.</hi> Mark that; <hi>ſuch as ſet their hearts to ſeek the Lord God of Iſrael.</hi> Though the <hi>generality</hi> of the people went with <hi>Jeroboam</hi> to <hi>Dan</hi> and <hi>Bethel</hi> to ſacrifice to the Calves, yet a <hi>remnant</hi> of <hi>Iſrael</hi> ſet their hearts to ſeek the Lord God of <hi>Iſrael,</hi> who knew that God would be worſhipped at <hi>Jeruſalem:</hi> therefore they would not joyn with others, and
+<pb n="34" facs="tcp:39157:18"/>go with others; no, the <hi>Prieſts</hi> would loſe their <hi>Lands</hi> and <hi>Livings,</hi> rather than they would own <hi>Jeroboams</hi> falſe gods, and worſhip them. You know what is commanded, in <hi>Hoſ.</hi> 4.15. ſaith the Lord there, <hi>Come not ye unto Gilgal, neither go ye up to Beth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aven;</hi> What was this <hi>Gilgal</hi> and <hi>Beth<g ref="char:EOLhyphen"/>aven,</hi> that God commands them <hi>not ſo much as to come thither?</hi> O they were the principal places and ſeats where <hi>Jeroboam</hi> had ſet up his falſe wor<g ref="char:EOLhyphen"/>ſhip: now God layes a Command on them that feared his Name, <hi>not to come thither,</hi> no, not for <hi>curioſity-ſake</hi> to pleaſe their fancies; they muſt not come there where that falſe worſhip was. So ſome would fain be <hi>preſent</hi> with them that wor<g ref="char:EOLhyphen"/>ſhipped falſe gods in the Temple, that yet did not approve of them; ſee how the chief Apoſtle reproves them for it, in 1 Cor. 10.20. <hi>The Gen<g ref="char:EOLhyphen"/>tiles, they ſacrifice to Devils, and not to God; and I would not that ye ſhould have fellowſhip with De<g ref="char:EOLhyphen"/>vils: Ye cannot drink the cup of the Lord, and the cup of Devils; ye cannot be partakers of the Lord's table, and the table of Devils. Why do we provoke the Lord to jealouſie?</hi> So, again, in 2 Cor. 6.14. <hi>Be not unequally yoaked with unbelievers; for what fellowſhip hath Righteouſneſs with Unrighteouſneſs? and what communion hath light with darkneſs? and what agreement hath the Temple of God with Idols? For ye are the Temple of the living God;—where<g ref="char:EOLhyphen"/>fore, come out from among them, and be ye ſeparate, ſaith the Lord, and touch not the unclean thing, and
+<pb n="35" facs="tcp:39157:18"/>I will receive you.</hi> — Mark how the Apoſtle dot multiply expreſſion upon expreſſion; <hi>Come out — Touch not, — Be ye ſeparate,</hi> and have nothing to do with them.</p>
+            <p>And I might ſhew you, how that by joynin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with others in their falſe worſhip,
+<list>
+                  <item>1. You ſin againſt <hi>your ſelves.</hi>
+                  </item>
+                  <item>2. You ſin againſt <hi>others.</hi>
+                  </item>
+                  <item>3. You ſin againſt <hi>God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I ſay—</p>
+            <p n="1">1. Joyn not with others in their falſe worſhip becauſe hereby you ſin againſt <hi>your ſelves;</hi> for, by being <hi>parties</hi> in any falſe worſhip, <hi>(i. e.)</hi> by owning of it, you come to be acceſſory to their ſin. In Revel. 18.4. <hi>Come out of her my people, be not partakers of her ſins, that ye receive not of her plagues. — My People:</hi> Why if God's own People will defile themſelves with the <hi>Corrupti<g ref="char:EOLhyphen"/>ons of Babylon,</hi> they muſt expect to partake of the <hi>Judgments of Babylon.</hi> And indeed, many times God is <hi>more quick with his own People</hi> in this re<g ref="char:EOLhyphen"/>ſpect than with others, becauſe 'tis <hi>their duty</hi> to ſtand reſolutely againſt all the Innovations and Corruptions in matters of Religion; therefore when <hi>they</hi> ſhall comply with the times, and de<g ref="char:EOLhyphen"/>file themſelves, many times (I ſay) the Lord is quick in cutting <hi>them</hi> off, when he may ſuffer <hi>others</hi> to go on. And beſides, hereby they throw themſelves into the mouth of a temptation. God commands (you know) <hi>Thou ſhalt not come near
+<pb n="36" facs="tcp:39157:19"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> houſe of an Harlot,</hi> Prov. 5.8. becauſe of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptation.</hi> Why, you know what's ſaid con<g ref="char:EOLhyphen"/>cerning King <hi>Ahaz.</hi> (in 2 <hi>King.</hi> 16.10.) that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing unto <hi>Damaſcus</hi> to meet the King of <hi>Aſſyria</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere, (out of a Complement it may be, to con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atulate him, or the like) he ſaw an Altar that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as at <hi>Damaſcus;</hi> and King <hi>Ahaz</hi> ſent to <hi>Uriah</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Prieſt the faſhion of the Altar, and the pat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn of it, according to all the workmanſhip <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereof; and the Prieſt built an Altar, &amp;c. He <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as preſently in love with the Altar; to <hi>ſee it,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a temptation to him to <hi>make it,</hi> and to <hi>ſacri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce on it,</hi> and worſhip in like manner. This <hi>Uriah</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it ſeems) was one that was a <hi>Temporizing Prieſt,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat would do any thing the King commanded <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im; therefore when once he had gotten the Al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar made, and the King comes home, he preſent<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y falls to Idolatry: they lay on their Offering, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen they eat it, and then they go to worſhiping. <hi>Peter</hi> goes to ſee what the High-Prieſt hath done, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e goes to warm himſelf, and is accuſed. It's dangerous to come into the High-Prieſts <hi>Hall,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>warm</hi> at his <hi>fire,</hi> leſt we go away with a <hi>ſcorched conſcience.</hi> And again—</p>
+            <p n="2">2. You ſin againſt <hi>others</hi> too, that <hi>ſet up</hi> theſe ſuperſtitious wayes; whom you herein do abet, and encourage, and harden in their evil wayes. Do not communicate with them. Though you be not as <hi>Maſter-builders</hi> to draw out a <hi>Platform,</hi> yet you ſhould have a care of bringing any <hi>brick</hi> or
+<pb n="37" facs="tcp:39157:19"/>
+               <hi>mortar</hi> to build <hi>Babel.</hi> In ſhort; in <hi>practice</hi> yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do <hi>offend</hi> others, and (it may be) by <hi>example</hi> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>draw them aſide</hi> too: As in <hi>Gal.</hi> 2.11. <hi>Pete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (there) by his diſſimulation, was a means to dra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Barnabas</hi> and others of the Jews to ſide with him. And ſpecially, ſuch a one as is look'd on as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>knowing</hi> and a <hi>religious</hi> perſon, he is herein mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dangerous than a <hi>Pagan</hi> or a <hi>Papist</hi> is; you <hi>hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them,</hi> and will not be led by <hi>their example.</hi> An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again,</p>
+            <p n="3">3. You ſin herein againſt <hi>God</hi> too, by bring<g ref="char:EOLhyphen"/>ing <hi>him</hi> the <hi>blinde,</hi> the <hi>halt,</hi> and the <hi>lame:</hi> (For ſuch is every way of Religion, every way of Worſhip that is of mans deviſing.) The Lord has not required any ſuch ſervice at your hands, and therefore you have no promiſe (and ſo no reaſon to expect) to be accepted in it. Nor can you do it in <hi>faith.</hi> As you muſt not believe for Doctrines the Commandments of men, neither are you to ſolemnize for Worſhip the Command<g ref="char:EOLhyphen"/>ments of men. The People of God are bound to maintain the Integrity and Purity of God's Or<g ref="char:EOLhyphen"/>dinances. Take heed of any thing that does but <hi>look like falſe Worſhip.</hi> VVe muſt <hi>abhor the gar<g ref="char:EOLhyphen"/>ment that is</hi> but <hi>ſpotted with the fleſh.</hi> VVe muſt not ſo much as <hi>touch the unclean thing.</hi> God for<g ref="char:EOLhyphen"/>had the Iſraelites to have a falſe god in their houſes: though they did not worſhip it, yet they muſt not have it in their houſes. And, in <hi>Iſa.</hi> 65.4. he reprehends them, not only for <hi>eating</hi>
+               <pb n="38" facs="tcp:39157:20"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he abominable thing, <hi>Swines fleſh,</hi> but for having the <hi>broth</hi> of that <hi>abominable</hi> thing in their veſſels.</p>
+            <p>
+               <hi>Object.</hi> 1. But, you will ſay, <hi>Was not</hi> Elijah <hi>himſelf preſent at the Worſhip of Baal? ſo we find, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> 1 King. 18.26, <hi>&amp;c.</hi> Elijah, <hi>why he ſtands by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, and is a looker-on, and bids them cry aloud unto</hi> Baal: <hi>therefore (it ſeems) we may be preſent at falſe Worſhip, and yet not ſin.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Though <hi>Elijah</hi> was preſent, yet he did not by his preſence any way countenance or al<g ref="char:EOLhyphen"/>low that worſhip of theirs, but he did reprove them for it; he was preſent to convince them of the evil of it, and to ſhew them the vanity of their worſhip. And thus indeed the Prophets and Apoſtles of God, they were ſometimes <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> at Sacrifices that were performed to Idols, but it was on purpoſe to reprove them for it, and to convince them of their Idolatry.</p>
+            <p>Obj. 2. <hi>But</hi> (you will ſay unto me) <hi>though we be preſent at it, yet we can keep our minds to our ſelves; we will not ſay</hi> Amen <hi>unto their prayers, we will not joyn with them, but will keep our minds ſtill unto our ſelves.</hi>
+            </p>
+            <p>
+               <hi>I anſwer.</hi> That is but to diſſemble, and to play the Hypocrite both with God and men. To ſay you will be <hi>preſent</hi> with your <hi>bodies</hi> at falſe wor<g ref="char:EOLhyphen"/>ſhip, and yet <hi>abſent</hi> in your <hi>ſpirits,</hi> it is in effect to ſay, you will ſerve God with your <hi>ſouls,</hi> and the Devil with your <hi>bodies.</hi> You know, the worſhip that is done in an Aſſembly, 'tis look'd
+<pb n="39" facs="tcp:39157:20"/>on as the joynt action of the whole Aſſembly; to which you ought to ſay your <hi>Amen,</hi> if lawful; and if not, to ſhew your diſlike of it. And therefore, if it be an Ordinance of God that thou beeſt pre<g ref="char:EOLhyphen"/>ſent at, thou oughtſt to come to it with thy whole heart and ſoul; and if otherwiſe, 'tis ſuch, any act of which worſhip thou canſt not warrantably <hi>joyn in,</hi> or be <hi>preſent at.</hi>
+            </p>
+            <p>Obj. 3. <hi>I but</hi> (you will ſay unto me) <hi>what if the Worſhip be corrupt in part, yet not in the whole? there may be many good prayers and good words in it; now, muſt we reject the</hi> good <hi>becauſe of the</hi> bad <hi>that is mingled with it?</hi>
+            </p>
+            <p>I <hi>Anſw.</hi> There are many good things in the <hi>Turkiſh Alcoran,</hi> as well as in the <hi>Popiſh Maſſe<g ref="char:EOLhyphen"/>book,</hi> yet may we not lawfully make uſe of either. The Iſraelites did halt betwixt <hi>God</hi> and <hi>Baal;</hi> that is, they did retain a great part of the true Worſhip of God, though they did joyn their own inventions with it: Now, 'tis not the <hi>retaining ſome part</hi> of the <hi>true Worſhip,</hi> that will <hi>ſanctifie any part</hi> of the <hi>falſe Worſhip that is joyned with it;</hi> no, nor the <hi>true matter</hi> of worſhip that will ſan<g ref="char:EOLhyphen"/>ctiſie the <hi>falſe form</hi> of it. <hi>A little leaven</hi> (here) <hi>will leaven the whole lump.</hi> VVhat though the <hi>Philiſtines</hi> did ſet up the <hi>Ark</hi> in the temple <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Dagon;</hi> yet that neither honoured <hi>Dagon</hi> nor <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Temple the more. VVhat though there may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome <hi>tares</hi> among the <hi>corn;</hi> yet ſtill both retain their own nature; this doth not make the <hi>tare</hi>
+               <pb n="40" facs="tcp:39157:21"/>or <hi>weeds</hi> to become <hi>Corn.</hi> The Inventions and Devices of men in God's Worſhip, they are but unclean things, that nothing is able to waſh, or to make clean. In <hi>Ezek.</hi> 43.8. God does reprove them there for ſetting up their poſt by his poſt, and their threſhold by his threſhold. They did not <hi>pull down God's</hi> poſt or threſhold, and <hi>ſet up their own</hi> in the room; but they ſet up their own <hi>by it.</hi> And in <hi>Zeph.</hi> 1.5. They there would ſwear by the name of the <hi>Lord,</hi> and of <hi>Malcam</hi> too. So in 2 <hi>King.</hi> 17.33. There were ſome that would <hi>ſerve Baal,</hi> and yet <hi>fear the Lord.</hi> That is, they would not <hi>caſt off all the Worſhip of God,</hi> but would retain ſome parts of it, onely they would joyn their own Inventions with it. Now, God hates to ſhare his VVorſhip between Chriſt and Anti<g ref="char:EOLhyphen"/>chriſt; that men ſhould have in their <hi>right-hands</hi> many <hi>Truths of Chriſt,</hi> but in their <hi>left</hi> many <hi>fal<g ref="char:EOLhyphen"/>ſities of Antichriſt.</hi> Indeed, ſometimes ſome part of God's VVorſhip covers a great deal of Super<g ref="char:EOLhyphen"/>ſtition; There are many evils, much ſuperſtition uſed in the VVorſhip of God at this day, yet be<g ref="char:EOLhyphen"/>cauſe they retain ſome principal Truths of the Goſpel therwith, that's a great cover to all their corruptions. And indeed, the nearer you come to the true VVorſhip of God, and yet retain falſe worſhip with it, the more danger there is of ſwal<g ref="char:EOLhyphen"/>lowing up many people.</p>
+            <p>Obj. 4. <hi>I but</hi> (you will ſay unto me) <hi>there may ſome things be found amiſs in the prayers and preach<g ref="char:EOLhyphen"/>ing
+<pb n="41" facs="tcp:39157:21"/>of the beſt Miniſters, that we cannot joyn in faith with. If we may not joyn with ſome</hi> good <hi>becauſe there is ſome</hi> evil <hi>mingled with it, why in</hi> this caſe <hi>more than in</hi> that?</p>
+            <p>I <hi>anſwer.</hi> That <hi>preaching</hi> and <hi>praying</hi> of Mini<g ref="char:EOLhyphen"/>ſters, when they do exerciſe their own gifts, and have not Prayers and Sermons made for them, 'tis an Ordinance of God, and being an Ordi<g ref="char:EOLhyphen"/>nance of God, you may ſafely communicate ther<g ref="char:EOLhyphen"/>in, notwithſtanding that there may be ſome <hi>fail<g ref="char:EOLhyphen"/>ings</hi> in the Miniſter: in which caſe the rule is, <hi>To prove all things, and only to hold faſt that which is good,</hi> 1 Theſſ. 5.25. I but, when any thing is brought into the worſhip of God that is not <hi>God's Ordinance,</hi> but <hi>mans,</hi> here you cannot communi<g ref="char:EOLhyphen"/>cate in it ſafely, becauſe 'tis <hi>that</hi> that God has not required, nor promiſed any bleſſing unto; and therfore you are to reject it, and not to have communion with it. Indeed, there are <hi>corruptions</hi> in the <hi>beſt hearts,</hi> and <hi>mixtures</hi> in the <hi>holieſt du<g ref="char:EOLhyphen"/>ties:</hi> I but when the People of God do <hi>worſhip God in ſpirit and in truth,</hi> as long as they don't ſet up any Idols in their hearts, nor regard any ini<g ref="char:EOLhyphen"/>quity in their ſouls, (as <hi>David</hi> ſays) ſo long the Lord doth not reject their ſervices, though there are ſome perſonal infirmities that attend them.</p>
+            <p>Obj. 5. <hi>I but</hi> (you'l ſay) <hi>we hear worſe things than theſe can be every day; as we go along the ſtreets we hear men</hi> ſwearing <hi>and</hi> curſing; <hi>and though we are preſent, yet we hope we are never the worſe for that.</hi>
+            </p>
+            <pb n="42" facs="tcp:39157:22"/>
+            <p>
+               <hi>I anſwer.</hi> Though you hear ſuch things in the ſtreets, yet if you by no act of yours joyn with them in it, but do <hi>grieve</hi> in your ſpirits when you hear them, the ſin is <hi>theirs,</hi> and not <hi>yours.</hi>
+            </p>
+            <p>Obj. 6. <hi>I but</hi> (you'l ſay) <hi>ſuppoſe it be ſuch a way of Worſhip that (it may be) many holy and godly men uſe, and they have found good and comfort in it?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We muſt follow the examples of holy men, no further than they follow the example and rules of Chriſt. 'Tis no ſufficient argument to prove that ſuch a thing is good, becauſe ſome <hi>holy men</hi> have uſed it; then it might be an argu<g ref="char:EOLhyphen"/>ment that taking of Concubines is good, becauſe we reade of ſome good men in the old Teſtament that uſed it. <hi>Aſa</hi> and <hi>Jehoſaphat</hi> (I think) were <hi>good Kings;</hi> yet 'tis ſaid, that in their dayes the <hi>High-Places</hi> were not taken down, and they are blamed for it. <hi>Hezekiah</hi> comes after, and he re<g ref="char:EOLhyphen"/>moves them, and is commended for what he did. I queſtion not but when theſe good men went into theſe <hi>High-Places,</hi> though they did evil in what they did, yet the Lord might manifeſt him<g ref="char:EOLhyphen"/>ſelf good to them. Though ſome good men have uſed the Ordinances of God with ſome corrupti<g ref="char:EOLhyphen"/>ons and mixtures, yet the Lord hath ſo far ac<g ref="char:EOLhyphen"/>cepted of the integrity and uprightneſs of their hearts in what they did, as that they have found peace and comfort in ſo doing: I but this was the <hi>mercy</hi> of God to them. You muſt not think it enough to <hi>juſtiſie</hi> any evil or corruption in wor<g ref="char:EOLhyphen"/>ſhip, <hi>that ſome good men have uſed it, and yet found
+<pb n="43" facs="tcp:39157:22"/>comfort in the Ordinances:</hi> the times of their ig<g ref="char:EOLhyphen"/>norance God might wink at, if they did but ſeek and ſerve him according to what they knew.</p>
+            <p>Obj. 7. <hi>I but what if ſuch a way of Worſhip be impoſed on us, and commanded, then 'tis their faults that impoſe it, and not our faults that do it.</hi>
+            </p>
+            <p>
+               <hi>I anſwer:</hi> That no man can without ſin com<g ref="char:EOLhyphen"/>poſe, or impoſe any forms or wayes of Worſhip of his own deviſing, for which he hath no ground in the Word of God; ſo neither can any <hi>ſubmit</hi> to them without ſin. VVhat is unlawful in him that impoſeth, muſt needs be unlawful in him that doth receive it, and ſubmit to it. The King in commanding <hi>Daniel not to pray,</hi> did not make <hi>Daniels praying</hi> ever the more <hi>unlawful:</hi> And the King's commanding the <hi>three Children</hi> and the reſt to bow, did not commend the act, or make it ever the more lawful. 'Tis not <hi>mans allowing</hi> or <hi>commanding</hi> that doth make <hi>lawful</hi> any way of Worſhip that is not warranted by the Word of God. <hi>No man can lawfully do any thing in the Worſhip of God, but that which he is ſatisfied in his conſcience he may do, whether commanded by man or not.</hi>
+            </p>
+            <p>Obj. 8. <hi>I but</hi> (you will ſay) <hi>the matter is not great, and we will yeeld but a little for peace and quietneſs ſake.</hi>
+            </p>
+            <p>
+               <hi>I anſwer:</hi> There is not a more dangerous and deceitful temptation than <hi>that</hi> in the world, <hi>for men to yeeld to the beginnings of evil under this pre<g ref="char:EOLhyphen"/>tence, that they will yeeld but in a little.</hi> He that
+<pb n="44" facs="tcp:39157:23"/>is not faithful in a <hi>little,</hi> will not be faithful in <hi>much.</hi> The Prieſt that yeelded to the King ſo far as to <hi>make</hi> the <hi>Altar,</hi> and <hi>ſet it up,</hi> afterwards muſt yield further, to <hi>offer</hi> upon the Altar, 2 <hi>Kin.</hi> 16. the 11th, 15 &amp; 16 verſes compared. As, many good men, they have thought to yield <hi>thus far,</hi> and <hi>thus far,</hi> for peace and quietneſs ſake: I but when once their feet have been in the ſnare, they have after ſwallowing ſome <hi>gnats,</hi> ſwallow<g ref="char:EOLhyphen"/>ed <hi>Camels</hi> too: and if the Serpent once get in his <hi>head,</hi> he will ſoon get in his <hi>whole body.</hi> 'Tis a dangerous thing to go after the inventions of <hi>men,</hi> though in never ſo little, (the Rule is certain;) becauſe they know not how far they ſhall go. As a Nobleman of <hi>England</hi> once ſaid, <hi>I will pin my faith on no mans ſleeve, becauſe I know not whither they will carry it.</hi> The true Religion hath the <hi>Word of God</hi> for its Rule, which remains certain and unalterable; ſo that when I guide my ſelf by that, I know how far I muſt go, and where to ſtop; but when I make the <hi>Traditions and Inven<g ref="char:EOLhyphen"/>tions of men my Rule,</hi> here is no certain ſtop at all; for men may be multiplying their Traditi<g ref="char:EOLhyphen"/>ons and Inventions every day. Therefore 'tis dangerous to yield in <hi>little</hi> things in matter of falſe Worſhip.</p>
+            <p>Obj. 9. <hi>I but</hi> (you may ſay) <hi>it's poſſible hereby we may deprive our ſelves of many of the Ordinances of God, and ſo deprive our ſouls of comfort, and we had better do it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Let me ask you, What comfort and
+<pb n="45" facs="tcp:39157:23"/>benefit can you expect from the Ordinances of God, if you may not enjoy them <hi>as appointed</hi> by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord? If you cannot enjoy God's Ordinan<g ref="char:EOLhyphen"/>ces without committing ſin, 'tis your duty to for<g ref="char:EOLhyphen"/>bear them; for this is the Rule, <hi>You may not do evil for the enjoyment of good,</hi> Rom. 3.8. And therefore, 'tis not ſimply the <hi>want of Ordinances</hi> that is your ſin, but your <hi>contempt of them.</hi> I but now, when you can't enjoy them in the way and after the manner enjoyned of the Lord, and for<g ref="char:EOLhyphen"/>bear them upon that account, this is no <hi>contempt,</hi> therefore not your ſin. But further,</p>
+            <p>
+               <hi>Anſw.</hi> 2. Bleſſed be the Father of mercies, there is yet a poſſibility of enjoying the Ordi<g ref="char:EOLhyphen"/>nances of <hi>God</hi> according to his own appointment; Though we may not have them ſo publickly as we could deſire, yet we may have them elſwhere, and 'tis our duty (as you have heard made good to you) to follow Goſpel-Adminiſtrations to what-ever place they are confined, and in what<g ref="char:EOLhyphen"/>ever place they may be enjoyed; if they are driven into corners, we muſt follow them into thoſe corners.</p>
+            <p>But now, here I meet with another Objecti<g ref="char:EOLhyphen"/>on, and it has reſpect</p>
+            <p n="1">1. To our <hi>abſenting</hi> our ſelves from the <hi>Pub<g ref="char:EOLhyphen"/>lick Aſſemblies.</hi> And —</p>
+            <p n="2">2. To our betaking of our ſelves to the more <hi>Private-Meetings</hi> of God's People.</p>
+            <p>And both of them have their riſe from the Laws made in that behalf.</p>
+            <pb n="46" facs="tcp:39157:24"/>
+            <p n="1">1. Reſpecting our abſenting our ſelves from the Publick Aſſemblies.</p>
+            <p>
+               <hi>Object.</hi> You will ſay unto me, <hi>'Tis poſſible, if we do not yeeld, we may ſuffer; we may be undone both We and our Families too.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All I will ſay to that, is this; When you may not <hi>obey the Commands of men,</hi> without <hi>ſinning against God,</hi> you had better <hi>ſuffer</hi> than <hi>ſin:</hi> you had better <hi>ſuffer</hi> from <hi>men,</hi> becauſe you are <hi>afraid</hi> of <hi>offending God;</hi> than to <hi>ſuffer from God,</hi> becauſe you are <hi>afraid of offending men.</hi> This in<g ref="char:EOLhyphen"/>deed is a great temptation to many a good ſoul, and holy man, <hi>O what will become of my Wife and Children? if I loſe my Living, my means of Liveli<g ref="char:EOLhyphen"/>hood, they may ſtarve, and my Conſcience is against that: I have peace neither day nor night.</hi> Why it was the caſe of thoſe we ſpake of but now, (in 1 <hi>King.</hi> 19.18.) they ventured <hi>Lives</hi> and <hi>Eſtates</hi> and <hi>All,</hi> rather than they would bow the knee to <hi>Baal:</hi> I but yet God was a Sanctuary to them, he provided an <hi>Obadiah</hi> that fed them, 1 <hi>King.</hi> 18.4. And when <hi>Elijah</hi> was forc'd to flee for his life from the Prophets of <hi>Baal,</hi> God commanded an <hi>Angel</hi> one time, and a <hi>Raven</hi> another time to feed him, 1 <hi>King.</hi> 19.17. &amp; 1 <hi>King.</hi> 14.4, 6. If ordinary means fail, God knows how to raiſe up <hi>extraordinary means,</hi> and will do ſo in time of his Peoples diſtreſs. Mind that place in <hi>Iſa.</hi> 66.5. <hi>Hear the Word of the Lord, ye that tremble at his Word; your Brethren that hated you, that caſt you out for my Name ſake, ſaid, Let the Lord be glori<g ref="char:EOLhyphen"/>fied;
+<pb n="47" facs="tcp:39157:24"/>but he ſhall appear to your joy, and they ſhall be aſhamed.</hi> Mark, my Brethren: <hi>There are a company among you that do tremble at my Word, (q. d.)</hi> that dare not do any thing in my Worſhip without my Word; but there are others of your Bre<g ref="char:EOLhyphen"/>thren that will find out wayes to avoid ſufferings; and will adventure upon things in my Worſhip that I never commanded them; and <hi>they hate you, and caſt you out,</hi> excommunicate you, becauſe you are not of their judgment, becauſe your con<g ref="char:EOLhyphen"/>ſciences are more tender than theirs: <hi>I but he ſhall appear to your joy, and they ſhall be aſhamed:</hi> though for the preſent you may lie under con<g ref="char:EOLhyphen"/>tempt, and be reproached as factious perſons, and they may flatter it out, and have preferments from the world, yet in time to come, <hi>the Lord will appear to your joy, and their ſhame.</hi> And cer<g ref="char:EOLhyphen"/>tainly, Brethren, the time is a coming, and not far off, when the Lord will appear for his Wor<g ref="char:EOLhyphen"/>ſhip, &amp; for his Ordinances in the purity of them; and when he will caſt ſhame and contempt-upon all falſe worſhip and worſhippers. Let me ſhut up this, with a ſtory concerning a <hi>Chriſtian Soul<g ref="char:EOLhyphen"/>dier,</hi> who being in the Heathen Army, and it be<g ref="char:EOLhyphen"/>ing a day whereon the Heathen Souldiers did al<g ref="char:EOLhyphen"/>wayes uſe to wear a Vail upon their heads, in honour to ſome Idol god; the Chriſtian Souldi<g ref="char:EOLhyphen"/>er in ſtead of wearing his Vail on his <hi>head,</hi> he carried it in his <hi>hand:</hi> whereupon his fellow-Souldiers did begin to ſcoff at him, and a great mutiny there was preſently in the Army, and he
+<pb n="48" facs="tcp:39157:25"/>brought before the Officers to anſwer for his fact; and his anſwer was, <hi>I am a Chriſtian, I dare not conform to them in their ſuperſtitious obſervation of dayes.</hi> At which they were exceedingly enraged, and ſo, that not only he, but other <hi>Chriſtians</hi> were like to <hi>ſuffer</hi> by his means: ſo that many other <hi>Chriſtians</hi> were hugely offended with this <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> that he would ſtand upon ſuch a ſmall thing. Now, <hi>Tertullian</hi> commends him, as being one that was holier than any of the reſt, who for fear of Perſecution would comply and yeeld to their ſuperſtitious obſervations. And though the o<g ref="char:EOLhyphen"/>ther Chriſtians ſaid, <hi>Where are we [forbidden] to wear a Vail on our heads?</hi> He anſwered, <hi>But where are we [commanded] to do any ſuch thing?</hi> So, ſome indeed may comply, and yeeld to ruperſtitious obſervations; yet thoſe that are of a true <hi>Chri<g ref="char:EOLhyphen"/>ſtian Spirit</hi> will not comply, whatever perſecu<g ref="char:EOLhyphen"/>tions or ſufferings may fall upon them for it. As in that fore-quoted place, 1 King. 19.8. <hi>I have left me ſeven thouſand in Iſrael, that have not</hi> (no, nor never will, come what will) <hi>bowed the knee to Baal, nor kiſſed him with their lips.</hi> But now,</p>
+            <p n="2">2. The other part of the Objection reſpects our betaking of our ſelves to the more <hi>Private-Meetings</hi> of Gods People; and it is this: There are Laws made againſt them, and we ſhall run our ſelves into danger if we be taken in theſe <hi>Conventicles.</hi> To this I anſwer:</p>
+            <p n="1">1. If you will be <hi>afraid of danger,</hi> then never think of <hi>performing duty:</hi> if you will ſtil be afraid
+<pb n="49" facs="tcp:39157:25"/>of danger, you will be ſure to keep your ſelves as much as you can out on't, what-ever duty you neglect for it: if you will be afraid of danger, little hope then that you will ever either <hi>do,</hi> or <hi>be good</hi> at all; ſeeing that <hi>if any man [will] live godly in Chriſt Jeſus, he [must] ſuffer perſecution.</hi> The fearful did never yet ſet up any Trophies of Victory.</p>
+            <p n="2">2. Had the Saints in former Ages and Times been afraid of danger, they had never left us ſuch examples as they have done. They would do their <hi>duty,</hi> and truſt God with their <hi>ſafety,</hi> let what<g ref="char:EOLhyphen"/>ever would come on them.</p>
+            <p n="3">3. Let me tell you, 'tis a very <hi>ſhameful</hi> and a very <hi>ſinful</hi> thing, to <hi>ſhun ſervices</hi> and <hi>duties,</hi> becauſe we would <hi>avoid ſufferings</hi> and <hi>dangers.</hi> You muſt have a care you don't ſuffer as <hi>evil<g ref="char:EOLhyphen"/>doers,</hi> but never fear ſuffering as <hi>well-doers.</hi> In 1 Pet. 4.15, 16. <hi>But let none of you ſuffer as a mur<g ref="char:EOLhyphen"/>derer, or as a thief, or as an evil-doer, or as a buſie<g ref="char:EOLhyphen"/>body in other mens matters; yet, if any man [ſuffer as a Chriſtian] let him not be aſhamed, but let him glorifie God in this behalf.</hi>
+            </p>
+            <p>And thus I have done with the ſecond Infe<g ref="char:EOLhyphen"/>rence. Again—</p>
+            <p n="3">3. It doth inform us what to think of theſe <hi>Conventicles,</hi> of theſe <hi>meetings together</hi> of God's People. You ſhould think of them as things of conſequence, as things of concernment, as things of <hi>ſoul</hi> and <hi>ſalvation-concernment,</hi> as things that we <hi>ought</hi> and are <hi>bound as much to come to,</hi> as to any <hi>other duty</hi> whatſoever.</p>
+            <pb n="50" facs="tcp:39157:26"/>
+            <p>Now there are ſix or ſeven things <hi>this way</hi> that I would lay before you.</p>
+            <p n="1">1. Look on them in <hi>God's Dictionary,</hi> and find how you reade them <hi>there:</hi> There they are call'd the <hi>Communion of Saints;</hi> the <hi>Paradiſe of the Earth;</hi> the <hi>Harbingers of Heaven;</hi> the <hi>Firſt<g ref="char:EOLhyphen"/>fruits of Canaan;</hi> the <hi>Earneſt of Eternal Joy,</hi> and this is <hi>all.</hi>
+            </p>
+            <p n="2">2. Look upon them as the only Worſhip that God had in the pure and primitive times, in the beginning of the Goſpel-dayes, when no place in publick was admitted them, or allowed to them.</p>
+            <p n="3">3. Look on <hi>Conventicles</hi> as all the means of comfort that you your ſelves are like to have in times of perſecution and <hi>fiery tryal.</hi> When <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> are driven into <hi>corners, follow</hi> them into thoſe <hi>corners.</hi>
+            </p>
+            <p n="4">4. Look upon them as the great Hammer, to break and beat down Antichriſt's Kingdom.</p>
+            <p n="5">5. Look upon them as Evidences of your Grace, of the <hi>truth</hi> of your Grace, and of the <hi>ſtrength</hi> of your Grace, that you are neither <hi>a<g ref="char:EOLhyphen"/>fraid</hi> to confeſs Chriſt, nor yet <hi>aſhamed</hi> to con<g ref="char:EOLhyphen"/>feſs him.</p>
+            <p n="6">6. Look upon them as a great help of your Faith, to encreaſe it, to ſtrengthen it; to get and procure joy and comfort.</p>
+            <p n="7">7. Look on them, as things very highly plea<g ref="char:EOLhyphen"/>ſing unto God: as you may ſee in the Text; —<hi>The Lord hearkened and heard;</hi> even as a man that hears ſome curious Muſick, he gives his
+<pb n="51" facs="tcp:39157:26"/>mind with all intention to the ſame. —<hi>O let me hear thy voice; for thy voice is ſweet,</hi> Cant. 2.14. 'tis ſpoken of the Church in her Meetings. When they <hi>came together,</hi> O how <hi>delightful</hi> it was to God! But—</p>
+            <p>Secondly. The next Uſe ſhall be of <hi>Lamenta<g ref="char:EOLhyphen"/>tion.</hi> Is it thus, that there ought to be ſuch <hi>Meetings,</hi> and for ſuch <hi>ends</hi> as you have heard, among which (I told you) this was one, <hi>To humble and afflict our ſouls?</hi> then let us put it into exe<g ref="char:EOLhyphen"/>cution this day. Give me leave to ſtrike this nail to the <hi>head,</hi> yea, to the <hi>heart,</hi> that it may be a day of <hi>great lamentation,</hi> and of <hi>great mourning,</hi> that we may <hi>every</hi> one <hi>pour out our ſouls before the Lord.</hi> (Beloved, this is very neceſſary.) And—</p>
+            <p>Firſt, Begin with <hi>your own ſouls,</hi> ſearch them to the very bottom; labour to find out your <hi>ſins,</hi> and endeavour to bring your hearts to a <hi>godly ſor<g ref="char:EOLhyphen"/>row and repentance for them,</hi> ſuch a one as may be <hi>unto life.</hi> O that as your ſins have been as <hi>clouds</hi> over your <hi>heads,</hi> ſo now they may break down in<g ref="char:EOLhyphen"/>to your <hi>hearts</hi> by a ſhower of godly ſorrow! Con<g ref="char:EOLhyphen"/>ſider ſeriouſly how highly and heavily God is pro<g ref="char:EOLhyphen"/>voked againſt you. Methinks that very one thing, <hi>That God is become our Enemy, hides his face from us, ſtops his cars againſt us, and turns his back upon us,</hi> were enough to kill any <hi>gracious heart,</hi> and to ſtrike him dead at his ſoul.</p>
+            <p>Look but upon what your ſin <hi>has</hi> provoked God to do, and upon what it <hi>may</hi> provoke God to do, and I hope <hi>that</hi> will humble you at this day, for
+<pb n="52" facs="tcp:39157:27"/>fear <hi>your peace, and the things thereof ſhould be hid from your eyes.</hi>
+            </p>
+            <p>Firſt. What it <hi>has</hi> provoked God to do, <hi>viz.</hi> to rid you of your choiceſt mercies, your precious opportunities, to ſtrip you ſtark naked of all your glorious priviledges; except now and then a bit in a corner, we can elſe get no pure bread, but a <hi>ſtone in ſtead of bread,</hi> and a <hi>Viper in ſtead of Fiſh.</hi> Sayes <hi>David, My tears are my meat and drink day and night, while they continually ſay unto me, Where is thy God?</hi> Pſal. 42.3. The loſs of God's pre<g ref="char:EOLhyphen"/>ſence may well humble us, and cauſe us to <hi>water our couch with our tears.</hi> And then,</p>
+            <p>Another thing that may make us humble is this; God has ſpit in our faces. O this ſhould go to our hearts. If a Father ſpit in his Daughters face for her Adultery and Uncleanneſs, will ſhe not be aſhamed? yea, and grieve too? Now, ſhall God ſpit in his Peoples face, and we not be aſhamed, and grieved? Why, 'tis <hi>ſo,</hi> that God <hi>has</hi> ſpit in our faces. For,</p>
+            <p n="1">1. God has (in a large degree) given us over to the power and luſt of our enemies. There is not a greater cut to God's People, than to be in their enemies hand, or in their enemies Land. —<hi>He delivered his glory over into the enemies hand, becauſe they had provoked him,</hi> Pſal. 78.58, 61. Why truly, the <hi>Philiſtines</hi> have gotten us into their hands, and whether they will <hi>put out our eyes,</hi> or <hi>take away our lives</hi> we cannot tell.</p>
+            <p n="2">2. Not only ſo; but we have provoked God
+<pb n="53" facs="tcp:39157:27"/>
+               <hi>ſo to ſpit in our faces,</hi> as that we ſtink in the noſtrils of our enemies, ſo that they ſcorn and deride us, becauſe we have ſinned againſt the Lord. <hi>Jacob's</hi> complaint was of <hi>Simeon</hi> and <hi>Levi, — You have made me to ſtink among the inhabitants of the Land, Gen.</hi> 34.30. Truly, ſo have <hi>our ſins made us to ſtink</hi> in the noſtrils of all our enemies round about us. This it <hi>has</hi> provoked God to do. But now,</p>
+            <p>Secondly, Conſider what your ſins <hi>may</hi> pro<g ref="char:EOLhyphen"/>voke God to do. If ſo be you don't lament, re<g ref="char:EOLhyphen"/>turn, reform, you will provoke God to proceed yet further againſt you. Brethren, there are ſad things, <hi>rods</hi> laid in brine for you, if you don't lay your <hi>ſouls</hi> in brine: There are Fines, Priſons,— carrying of you into ſtrange Lands, <hi>&amp;c.</hi> In <hi>Lev.</hi> 26. <hi>ver.</hi> 27 <hi>to</hi> 33. there God tells them plainly, becauſe they would not be inſtructed nor reform<g ref="char:EOLhyphen"/>ed by thoſe <hi>puniſhments</hi> that he had brought upon them, therefore he would ſend them into their enemies Land; he would make the Nation to caſt them out, ſo that they ſhould have no more ſanctuary in that place. Again,</p>
+            <p>Thirdly. Let me tell you (by way of comfort) if you will repent, lament, reform, and return, <hi>there is hope in Iſrael concerning this thing:</hi> Oh <hi>there is mercy with God, that he might be feared.</hi> With God there is pity, pardon, peace; and God is <hi>ready to beſtow it,</hi> yea, <hi>more ready than we are to receive it.</hi> But—</p>
+            <p>Secondly. As we ſhould mourn over <hi>our own ſins,</hi> ſo we ſhould lament over the ſins of the
+<pb n="54" facs="tcp:39157:28"/>
+               <hi>people of the Land among whom we live;</hi> we ſhould <hi>weep for them</hi> that <hi>laugh at us,</hi> and <hi>mourn for them</hi> that <hi>mourn not for themſelves.</hi>
+            </p>
+            <p>And know, there are (1.) the ſins of the <hi>Prieſts,</hi> and (2) the ſins of the <hi>People.</hi> Now take either of theſe:—</p>
+            <p>Firſt, The ſins of the Prieſts. <hi>Jer.</hi> 23.15. <hi>For from the [Prieſts] prophaneneſs is gone out into the Land.</hi> Truly, ſo <hi>we</hi> may ſay; God's Houſe that <hi>was a Houſe of Prayer, is [now] become a Den of Thieves and Robbers.</hi> The <hi>Wine</hi> of the Sanctuary is now become the <hi>Venom</hi> of the Sanctuary.</p>
+            <p>And I might divide <hi>them</hi> over again, into the <hi>Fathers of the Church,</hi> and <hi>the Sons of the Church,</hi> (as they call themſelves:) they have their great and grievous ſins of both ſorts:—</p>
+            <p>Firſt. The <hi>Fathers:</hi> Look upon <hi>their Pride</hi> and <hi>Prelacy,</hi> their ſetting up of <hi>will-worſhip,</hi> their <hi>lording it over Chriſt's people,</hi> their <hi>perſecuting of God's People for Conſcience-ſake,</hi> &amp;c. And,</p>
+            <p>Secondly. The <hi>Sons of the Church;</hi> their <hi>Apo<g ref="char:EOLhyphen"/>ſtacy</hi> and <hi>Atheiſm.</hi>
+            </p>
+            <p n="1">1. Their <hi>Apoſtacy.</hi> Divers that were <hi>among us once,</hi> their compliance with them that hate the Lord, and putting ſtumbling-blocks before the weak; and their horrible <hi>ſubſcription,</hi> whereby they do interpretatively deny the Faith it ſelf.</p>
+            <p n="2">2. Their <hi>Atheiſm:</hi> their baſe Ignorance, their groſs Drunkenneſs &amp; Covetouſneſs, their ſlaviſh <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>him</hi> they call their <hi>Dioceſſan,</hi> being more <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of offending againſt a <hi>Biſhops Canon,</hi> than
+<pb n="55" facs="tcp:39157:28"/>
+               <hi>Gods Commandment;</hi> and their preferring the <hi>Book of Common Prayer</hi> above the <hi>Bible.</hi> O that we could lay theſe things <hi>ſeriouſly</hi> and <hi>ſadly</hi> to heart, even the wick<g ref="char:EOLhyphen"/>edneſs of the <hi>Clergie!</hi> O the ſins of the <hi>Clergie</hi> are very great and grievous! And then,</p>
+            <p>Secondly. For the <hi>People.</hi> (And 'tis very like, if the <hi>Prieſts be bad,</hi> the <hi>people</hi> will be <hi>worſe;</hi> and if the <hi>ſons of the Church</hi> will be the <hi>ſons of Belial,</hi> the <hi>people</hi> will be apt to learn any wickedneſs that <hi>they ſhall teach them,</hi> either by their <hi>principles,</hi> or by their <hi>practices.</hi>) O the Blaſphemy, the hatred of Holineſs, Swearing, Curſing, drinking of <hi>Healths,</hi> yea, even in their <hi>own blood;</hi> yea, many drinking Healths to the <hi>Devil</hi> himſelf! We reade in <hi>Act.</hi> 14.11. that the people there cryed out concern<g ref="char:EOLhyphen"/>ing <hi>Paul</hi> and <hi>Barnabas,</hi> that the <hi>Gods were come down from heaven to them in the likeneſs of men:</hi> but if they were now in <hi>England,</hi> they would ſurely ſay that the <hi>Devils</hi> were come up into the Land among <hi>us.</hi>
+            </p>
+            <p>Let us therefore (my Brethren) now do <hi>our duties,</hi> carry our ſelves as <hi>friends to them,</hi> though <hi>they</hi> carry themſelves as <hi>enemies to us.</hi> Let us be the <hi>Lot's,</hi> the <hi>Noah's,</hi> the <hi>David's,</hi> the <hi>Jeremiah's,</hi> the <hi>Paul's,</hi> whoſe <hi>eyes were Rivers of waters, and did run down night and day, becauſe men did break the Law of God. I have told you often, and now tell you weeping, that they are enemies to the Croſs of Chriſt; whoſe end is deſtruction, whoſe God is their belly, and whoſe glory is their ſhame, who mind earthly things.</hi> O let us pray for their <hi>ſouls,</hi> their <hi>conviction</hi> and <hi>converſion.</hi> Brethren, though you have been praying long already, and ſee but little account of your prayers, yet follow it on ſtill, you do not know but that the hearts of your enemies may be given in unto you: O pray that they may be reformed, and that they may return, and may <hi>ſet up the Lord Jeſus Chriſt,</hi> whom they have <hi>dethroned.</hi>
+            </p>
+            <p>And then, my Brethren, if ſo be that your prayers (you ſee) can't prevail for them, then (there is ano<g ref="char:EOLhyphen"/>ther duty remains for you to do, (The firſt muſt be done firſt; but afterwards) pray that the ſtrong East
+<pb n="56" facs="tcp:39157:29"/>wind of the Lord would come, and blow theſe <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and <hi>Locuſts,</hi> and <hi>Droans</hi> out of the Land. I ſhall not need to give you many places of Scripture to prove this Truth, ſeeing it is ſo very plain from that fourth chapter of <hi>Nehemiah,</hi> the 4th and 5th verſes, where when the enemies of God <hi>ſet themſelves againſt the building of the Temple of the Lord, Nehemiah</hi> prays unto the Lord that he would <hi>preſerve them,</hi> but <hi>over<g ref="char:EOLhyphen"/>turn, their enemies.</hi> And truly, my Brethren, though I ſpeak of this as our <hi>duty,</hi> yet I could more abun<g ref="char:EOLhyphen"/>dantly wiſh, that God would hear our prayers for their <hi>converſion,</hi> than for their <hi>deſtruction.</hi>
+            </p>
+            <p>Here I might have added a third Uſe, and that is, To exhort and perſwade you all, that whenever theſe is any ſuch opportunity of <hi>private meeting together,</hi> ne<g ref="char:EOLhyphen"/>ver to be diſcouraged from it, becauſe you ſhall be de<g ref="char:EOLhyphen"/>rided, or may come other wayes to ſuffer by it: No, 'tis your <hi>Glory,</hi> 'tis your <hi>Crown,</hi> at ſuch times as theſe are, that you dare ſo bravely and boldly acknowledge the Lord Jeſus Chriſt, againſt ſo many oppoſers and deniers of Him, that are in the <hi>times</hi> and <hi>places</hi> where you live. But I ſuppoſe it would be needleſs to urge it any further: you ſee 'tis a duty, and the very Rea<g ref="char:EOLhyphen"/>ſons (that I have given you) of the Point, will be Arguments ſufficient: Therefore I ſhall leave this with you, and both <hi>this</hi> and <hi>you</hi> with God, deſiring of the Lord to adde his bleſſing to what has been ſpoken, that it may be of good uſe to you.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39157:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
